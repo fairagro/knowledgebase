@@ -1,7 +1,7 @@
 # FAIRagro Knowledgebase
 
 
-!!!Welcome
+!!! info "Welcome"
     In our knowldedge base we provide information on research data management (RDM) in the agrosystem sciences, RDM and legal, training and other resources.
 
 ---

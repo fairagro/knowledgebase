@@ -23,10 +23,10 @@ nav:
 #       - Interessante Projekte: projects.de.md
     - FAIRagro: website.de.md
 
-
 # Theme configuration
 theme:
     name: material
+    custom_dir: overrides
     logo: assets/logo.png
     favicon: assets/favicon.png
     font: false
@@ -42,6 +42,7 @@ theme:
         # toc
         - toc.integrate 
         - toc.follow
+        - navigation.footer
     #color scheme
     palette:
         primary: green
@@ -59,6 +60,7 @@ plugins:
           default: true
           name: Deutsch
           build: true
+          
         - locale: en
           name: English
           build: true
@@ -86,5 +88,14 @@ markdown_extensions:
   - attr_list
   - footnotes
   - admonition
-  - toc:
+  - toc:  
       toc_depth: 3
+
+extra:
+  social:
+    - icon: fontawesome/solid/file-contract
+      link: https://fairagro.net/impressum
+      name: twitter
+    - icon: fontawesome/solid/address-book
+      link: https://fairagro.net/kontakt
+      name: Kontakt
