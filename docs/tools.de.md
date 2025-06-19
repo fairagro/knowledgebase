@@ -15,6 +15,9 @@ Sowohl die Daten-Suche als auch die Infrastruktur-Suche befindet sich derzeit no
 Sobald weitere Infromationen verfügbar sind, findet ihr diese hier und auf unserer FAIRagro Website.
 
 ## SciWIn Client
+SciWIn Client ist eine Kommandozeilenanwendung zur Erstellung reproduzierbarer Datenpipelines mit der _Common Workflow Language (CWL)_. SciWIn Client unterstützt Wissenschaftler*innen dabei, Analyse- und Verarbeitungsschritte automatisch als CWL-Spezifikationen zu generieren und diese zu vollständigen Workflows zu kombinieren.
+Durch die strukturierte Beschreibung der Abläufe werden Reproduzierbarkeit, Nachvollziehbarkeit und Wiederverwendbarkeit deutlich verbessert. SciWIn Client erleichtert die Dokumentation, Versionierung und Weitergabe datengetriebener Methoden und fördert so eine kollaborative und nachhaltige Forschungspraxis.
+
 [GitHub](https://github.com/fairagro/m4.4_sciwin_client), [Dokumentation (englisch)](https://fairagro.github.io/m4.4_sciwin_client/)
 
 ## Data Quality Toolbox
