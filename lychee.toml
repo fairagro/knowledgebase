@@ -1,0 +1,4 @@
+exclude_path = [
+	"site/custom/partials/",
+	"docs/custom/partials/"
+]
