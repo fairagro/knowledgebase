@@ -4,7 +4,7 @@
 ##  1. Introduction and motivation
 FAIRagro offers a metadata framework for publishing research datasets in the agrosystem domain and is meant to be implemented in data publication services such as Research Data Infrastructures (RDIs) and data repositories.
 
-For generic metadata, the Publication Metadata Set builds on [Schema.org](https://schema.org) and other standards ([DC Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/){:target="_blank"}, [DCAT](https://www.w3.org/TR/vocab-dcat-3/){:target="_blank"}) and combines these to define a set of types, properties and cardinalities and links between the types. 
+For generic metadata, the Publication Metadata Set builds on [Schema.org](https://schema.org){:target="_blank"} and other standards ([DC Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/){:target="_blank"}, [DCAT](https://www.w3.org/TR/vocab-dcat-3/){:target="_blank"}) and combines these to define a set of types, properties and cardinalities and links between the types. 
 
 Domain specific metadata is expressed through the Agrischemas framework. It additionaly builds on [Bioschemas](https://bioschemas.org/){:target="_blank"} to add agricultural related information to [Dataset](https://schema.org/Dataset){:target="_blank"} metadata with a focus on increasing its findability. It uses existing [types](https://bioschemas.org/types/){:target="_blank"} and [properties](https://schema.org/Property){:target="_blank"} and recommends semantic concepts to achieve interoperability. It can be implemented in already existing Schema.org interfaces by mapping domain-specific information available in local data/metadata to structures described in this document. **Agrischemas offers a list of recommended types and properties for findability based on this approach.**
 
@@ -244,9 +244,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.14 Version
-**Definition:** "The version number of the dataset."
-<br>**Cardinality:** 0-1
-<br>**Range:** Text
+**Definition:** “The version number of the dataset.”  
+**Cardinality:** 0-1  
+**Range:** Text
 
 **Representation:**
 ```
@@ -256,9 +256,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.15 Format
-**Definition:** "The file format(s) of the dataset."
-<br>**Cardinality:** 0-n
-<br>**Range:** Text
+**Definition:** “The file format(s) of the dataset.”  
+**Cardinality:** 0-n  
+**Range:** Text
 
 **Representation:**
 ```
@@ -268,9 +268,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.16 Production date
-**Definition:** "The date when the data were produced (not distributed, published, or archived)." (Definition taken from Dataverse)
-<br>**Cardinality:** 0-1
-<br>**Range:** Date or DateTime (ISO 8601)
+**Definition:** “The date when the data were produced (not distributed, published, or archived).” (Definition taken from Dataverse)  
+**Cardinality:** 0-1  
+**Range:** Date or DateTime (ISO 8601)
 
 **Representation:**
 ```
@@ -280,9 +280,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.17 Distribution date
-**Definition:** "The date when the Dataset was made available for distribution/presentation." (Definition taken from Dataverse)
-<br>**Cardinality:** 0-1
-<br>**Range:** Date or DateTime (ISO 8601)
+**Definition:** “The date when the Dataset was made available for distribution/presentation.” (Definition taken from Dataverse)  
+**Cardinality:** 0-1  
+**Range:** Date or DateTime (ISO 8601)
 
 **Representation:**
 ```
@@ -292,9 +292,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.18 Update date
-**Definition:** "The date on which the Dataset was most recently modified or when the item's entry was modified " (Definition changed from [https://schema.org/dateModified](https://schema.org/dateModified))
-<br>**Cardinality:** 0-1
-<br>**Range:** Date or DateTime (ISO 8601)
+**Definition:** “The date on which the Dataset was most recently modified or when the item's entry was modified.” (Definition changed from [https://schema.org/dateModified](https://schema.org/dateModified){:target="_blank"})  
+**Cardinality:** 0-1  
+**Range:** Date or DateTime (ISO 8601)
 
 **Representation:**
 ```
@@ -304,10 +304,10 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.19 Language
-**Definition:** "A language that the Dataset's files is written in." (Definition taken from Dataverse)
-<br>**Cardinality:** 0-n
-<br>**Range:** Text
-<br>**Comment:** Use language codes from [https://www.rfc-editor.org/info/bcp47](https://www.rfc-editor.org/info/bcp47).
+**Definition:** “A language that the Dataset's files is written in.” (Definition taken from Dataverse)  
+**Cardinality:** 0-n  
+**Range:** Text  
+**Comment:** Use language codes from [https://www.rfc-editor.org/info/bcp47](https://www.rfc-editor.org/info/bcp47){:target="_blank"}.
 
 **Representation:**
 ```
@@ -317,10 +317,10 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.20 Access rights
-**Definition:** "Information about who accesses the resource or an indication of its security status." (taken from [http://purl.org/dc/terms/accessRights](http://purl.org/dc/terms/accessRights))
-<br>**Cardinality:** 0-n
-<br>**Range:** Text
-<br>**Comment:** Values for access rights statements can e.g. be "restricted", or "internal" or can come from a controlled vocabulary.
+**Definition:** “Information about who accesses the resource or an indication of its security status.” (taken from [http://purl.org/dc/terms/accessRights](http://purl.org/dc/terms/accessRights){:target="_blank"})  
+**Cardinality:** 0-n  
+**Range:** Text  
+**Comment:** Values for access rights statements can e.g. be “restricted”, or “internal” or can come from a controlled vocabulary.
 
 **Representation:**
 ```
@@ -330,9 +330,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.21 Source RDI
-**Definition:** "The original Research Data Infrastructure that the dataset was published by."
-<br>**Cardinality:** 1
-<br>**Range:** DataCatalog
+**Definition:** “The original Research Data Infrastructure that the dataset was published by.”  
+**Cardinality:** 1  
+**Range:** DataCatalog
 
 **Representation:**
 ```
@@ -344,9 +344,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.22 Has part
-**Definition:** "Indicates a Dataset or CreativeWork that is part of this item." (Definition changed from [https://schema.org/hasPart](https://schema.org/hasPart))
-<br>**Cardinality:** 0-n
-<br>**Range:** Dataset/CreativeWork
+**Definition:** “Indicates a Dataset or CreativeWork that is part of this item.” (Definition changed from [https://schema.org/hasPart](https://schema.org/hasPart){:target="_blank"})  
+**Cardinality:** 0-n  
+**Range:** Dataset/CreativeWork
 
 **Representation:**
 ```
@@ -364,10 +364,11 @@ Types and properties from following namespaces are used:
   }
 }
 ```
+
 #### 2.1.23 Is part of
-**Definition:** "Indicates a Dataset or CreativeWork that this item." (Definition changed from [https://schema.org/isPartOf](https://schema.org/isPartOf))
-<br>**Cardinality:** 0-n
-<br>**Range:** Dataset/CreativeWork
+**Definition:** “Indicates a Dataset or CreativeWork that this item.” (Definition changed from [https://schema.org/isPartOf](https://schema.org/isPartOf){:target="_blank"})  
+**Cardinality:** 0-n  
+**Range:** Dataset/CreativeWork
 
 **Representation:**
 ```
@@ -387,9 +388,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.24 Is based on
-**Definition:** "A resource from which this Dataset is derived or from which it is a modification or adaptation. " (Definition changed from [https://schema.org/isBasedOn](https://schema.org/isBasedOn))
-<br>**Cardinality:** 0-n
-<br>**Range:** Dataset/CreativeWork
+**Definition:** “A resource from which this Dataset is derived or from which it is a modification or adaptation.” (Definition changed from [https://schema.org/isBasedOn](https://schema.org/isBasedOn){:target="_blank"})  
+**Cardinality:** 0-n  
+**Range:** Dataset/CreativeWork
 
 **Representation:**
 ```
@@ -409,9 +410,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.25 Access type
-**Definition:** "A flag to signal that the item, event, or place is accessible for free." (Definition taken from [https://schema.org/isAccessibleForFree](https://schema.org/isAccessibleForFree))
-<br>**Cardinality:** 0-1
-<br>**Range:** Boolean
+**Definition:** “A flag to signal that the item, event, or place is accessible for free.” (Definition taken from [https://schema.org/isAccessibleForFree](https://schema.org/isAccessibleForFree){:target="_blank"})  
+**Cardinality:** 0-1  
+**Range:** Boolean
 
 **Representation:**
 ```
@@ -425,10 +426,11 @@ Types and properties from following namespaces are used:
   "https://schema.org/isAccessibleForFree": "False"
 }
 ```
+
 #### 2.1.26 Spatial resolution
-**Definition:** "Minimum spatial separation resolvable in a dataset, measured in meters." (Definition taken from DCAT)
-<br>**Cardinality:** 0-1
-<br>**Range:** Text / [xsd:decimal](https://www.w3.org/TR/xmlschema11-2/#decimal)
+**Definition:** “Minimum spatial separation resolvable in a dataset, measured in meters.” (Definition taken from DCAT)  
+**Cardinality:** 0-1  
+**Range:** Text / [xsd:decimal](https://www.w3.org/TR/xmlschema11-2/#decimal){:target="_blank"}
 
 **Representation:**
 ```
@@ -438,16 +440,15 @@ Types and properties from following namespaces are used:
 ```
 
 ### 2.2 Person/Organization
-**Person definition:** A person (alive, dead, undead, or fictional). (Definition taken from [https://schema.org/Person](https://schema.org/Person))
+**Person definition:** “A person (alive, dead, undead, or fictional).” (Definition taken from [https://schema.org/Person](https://schema.org/Person){:target="_blank"})
 
-**Organization definition:** An organization such as a school, NGO, corporation, club, etc. (Definition taken from [https://schema.org/Organization](https://schema.org/Organization))
+**Organization definition:** “An organization such as a school, NGO, corporation, club, etc..” (Definition taken from [https://schema.org/Organization](https://schema.org/Organization){:target="_blank"})
 
 #### 2.2.1 Type
-**Definition:** "Defines if an entity is a person or an organization."
-<br>**Cardinality:** 1
-<br>**Range:**[https://schema.org/Person](https://schema.org/Person) / [https://schema.org/Organization](https://schema.org/Organization)
-<br>**Comment**: Choosing the correct type depends on the property it is used for as a value. For the "author" property, it will most likely be a [https://schema.org/Person](https://schema.org/Person), whereas it will most likely be a [https://schema.org/Organization](https://schema.org/Organization) as a value for the "affiliation" property.
-
+**Definition:** “Defines if an entity is a person or an organization.”  
+**Cardinality:** 1  
+**Range:**[https://schema.org/Person](https://schema.org/Person){:target="_blank"} / [https://schema.org/Organization](https://schema.org/Organization){:target="_blank"}  
+**Comment**: Choosing the correct type depends on the property it is used for as a value. For the “author” property, it will most likely be a [https://schema.org/Person](https://schema.org/Person){:target="_blank"}, whereas it will most likely be a [https://schema.org/Organization](https://schema.org/Organization){:target="_blank"} as a value for the “affiliation” property.
 
 **Representation:**
 ```
@@ -463,9 +464,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.2.2 Name
-**Definition:** "The name of the person or the organization." (Definition changed from Dataverse)
-<br>**Cardinality:** 1
-<br>**Range:** Text
+**Definition:** “The name of the person or the organization.” (Definition changed from Dataverse)  
+**Cardinality:** 1  
+**Range:** Text
 
 **Representation:**
 ```
@@ -474,9 +475,9 @@ Types and properties from following namespaces are used:
 }
 ```
 #### 2.2.3 Affiliation (Person)
-**Definition:** "The name of the organization the person is  affiliated with, e.g. an organization's name." (Definition changed from Dataverse)
-<br>**Cardinality:** 1
-<br>**Range:** Text
+**Definition:** “The name of the organization the person is  affiliated with, e.g. an organization's name.” (Definition changed from Dataverse)  
+**Cardinality:** 1  
+**Range:** Text
 
 **Representation:**
 ```
@@ -488,9 +489,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.2.4 Identifier
-**Definition:** "Uniquely identifies a person/organization when paired with an identifier type." (changed from DataVerse)
-<br>**Cardinality:** 1
-<br>**Range:** Identifier
+**Definition:** “Uniquely identifies a person/organization when paired with an identifier type.” (changed from DataVerse)  
+**Cardinality:** 1  
+**Range:** Identifier
 
 **Representation:**
 ```
@@ -502,9 +503,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.2.4 E-Mail
-**Definition:** "A person/organization contact email address." (Definition changed from Dataverse)
-<br>**Cardinality:** 0-1
-<br>**Range:** Text
+**Definition:** “A person/organization contact email address.” (Definition changed from Dataverse)  
+**Cardinality:** 0-1  
+**Range:** Text
 
 **Representation:**
 ```
