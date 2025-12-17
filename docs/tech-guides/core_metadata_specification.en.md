@@ -890,6 +890,7 @@ An example metadata instance in Agrischemas could look like this:
 	- [valueReference](https://schema.org/valueReference): A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.
 
 ![Publication Metadata Set Diagram](../images/Agrischemas_Example_Property_Diagram.png)
+<br>
 **Figure 3:** Soil sampling depth as an example for a constructed property.
 
 ### 3.1 Crop
