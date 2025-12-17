@@ -1078,7 +1078,7 @@ The following, existing properties are recommended to describe a plot:
 
 - For **geo**: The geographical coordinates of a [Place](https://schema.org/Place) should be attached to it through a [GeoShape](https://schema.org/GeoShape) object by using the geo property. The [GeoShape](https://schema.org/GeoShape) type offers the [box](https://schema.org/box) property to attach a bounding box as a [Text](https://schema.org/Text) where the box is expressed as two points separated by a space character. The first point is the lower corner, the second point is the upper corner.
 
-|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary
+|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary|
 |--|--|--|--|--|--|--|--|--|
 |PL_001|crop yield|The amount of plant crop (such as cereal, grain or legume) harvested per unit area for a given time.|http://aims.fao.org/aos/agrovoc/c_10176|dt/ha|/|/|/|/
 |PL_002|elevation|Altitude, like elevation, is the distance above sea level.|http://aims.fao.org/aos/agrovoc/c_316|meter|http://purl.obolibrary.org/obo/UO_0000008|/|/|/
@@ -1093,7 +1093,8 @@ The following, existing properties are recommended to describe a plot:
 A sensor entity represents a specific sensor, that is described in a dataset, or was used to create measurements in it.
 
 The following, existing properties are recommended to describe a sensor:
-|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary
+
+|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary|
 |--|--|--|--|--|--|--|--|--|
 |SE_001|is hosted by|Relation between a Sensor and the Platform that it is mounted on or hosted by.|https://www.w3.org/TR/vocab-ssn/#SOSAisHostedBy|/|/|/|/|
 |SE_002|activity type|Describes if the sensor is an active or a passive sensor.|/|/|/|/|/|"Active" or "Passive"
@@ -1150,12 +1151,12 @@ Validation mechanisms for the specification are being worked on and will be rele
 
 ## 6. Feedback
 If you would like to provide feedback to FAIRagros, e.g. for proposing new core entities, new properties important for findability,  on definitions in the specification or to recommend additional semantic concepts for values, please use one of the following templates to create an issue in FAIRagros metadata Github repository. 
-<ul>
-<li>[Suggest a new type/entity](https://github.com/fairagro/core-metadata-specification/issues/new?template=type-entity-request.md)</li>
-<li>[Suggest a new property](https://github.com/fairagro/core-metadata-specification/issues/new?template=property-request-.md)</li>
-<li>[Suggest an update/change to a definition](https://github.com/fairagro/core-metadata-specification/issues/new?template=change-update-existing-definition.md)</li>
-<li>[Suggest a semantic concept for a property or values](https://github.com/fairagro/core-metadata-specification/issues/new?template=semantic-concept-request.md)</li>
-</ul>
+
+- [Suggest a new type/entity](https://github.com/fairagro/core-metadata-specification/issues/new?template=type-entity-request.md)<br>
+- [Suggest a new property](https://github.com/fairagro/core-metadata-specification/issues/new?template=property-request-.md)<br>
+- [Suggest an update/change to a definition](https://github.com/fairagro/core-metadata-specification/issues/new?template=change-update-existing-definition.md)<br>
+- [Suggest a semantic concept for a property or values](https://github.com/fairagro/core-metadata-specification/issues/new?template=semantic-concept-request.md)<br>
+
 
 Issues will be discussed in FAIRagros Task Areas and Measures.
 If you are interested in joining the Agrischemas Working Group group, please contact its [mailinglist](mailto:agri-wg-bioschemas@listserv.dfn.de). 
@@ -1168,6 +1169,6 @@ For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@
 (*Last Update: 2025-12-17*)
 
 ## How to cite this page?
-FAIRagro. *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/advanced/core_metadata_specification/](https://knowledgebase.fairagro.net/en/rdm/core_metadata_specification/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+FAIRagro. *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/advanced/core_metadata_specification/](https://knowledgebase.fairagro.net/en/advanced/core_metadata_specification/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
