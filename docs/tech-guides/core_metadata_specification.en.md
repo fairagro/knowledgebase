@@ -864,7 +864,7 @@ Types and properties from following namespaces are used:
 ```
 
 ## 3. Agrischemas
-**Design principles and modeling conventions**
+**Design principles and modeling conventions**<br>
 Agrischemas aims at efficiently reusing established resources, only extending these where necessary. In general, the framework builds on following modeling conventions:<br>
 - Agrischemas uses a set of existing Schema.org / [Bioschemas](https://bioschemas.org/types/) types to represent its core entities. The corresponding type for each core entity is listed in its chapter. Instances of the core entities are typed via the "@type" property.<br>
 - Instances of the core entities are linked to [Dataset](https://schema.org/Dataset) via the [about](https://schema.org/about) property.<br>
