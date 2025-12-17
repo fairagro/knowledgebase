@@ -17,6 +17,9 @@ nav:
         - Rechte an Daten: legal/rights.de.md
         - Data Act der EU: legal/access.de.md
         - Automatisierte Verträge: legal/automated_contracts.de.md
+    - Tech Guides:
+        - tech-guides/index.de.md
+        - Metadata Core Specification: tech-guides/core_metadata_specification.de.md
     - Weitere FDM Themen:
         - FDM Training: training.de.md
         - FAIRagro Services: services.de.md
@@ -80,6 +83,9 @@ plugins:
                 - Data Rights: legal/rights.en.md
                 - EU Data Act: legal/access.en.md
                 - Automated Contracts: legal/automated_contracts.en.md
+            - Tech Guides:
+                - tech-guides/index.en.md
+                - Metadata Core Specification: tech-guides/core_metadata_specification.en.md
             - Further RDM Topics:
                 - RDM Training: training.en.md
                 - FAIRagro Services: services.en.md
