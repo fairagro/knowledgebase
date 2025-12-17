@@ -877,16 +877,7 @@ Agrischemas aims at efficiently reusing established resources, only extending th
 - If the value of a property is more complex than a string, Agrischemas uses the [valueReference](https://schema.org/valueReference) to provide a link to a semantic concept for the value.<br>
 
 An example metadata instance in Agrischemas could look like this:
-```mermaid
-	flowchart LR;
-	A(["Dataset"]) --"@type"-->B(["Schema.org: Dataset"])
-	A(["Dataset"])--"about"-->C(["Core Entity"])
-	C(["Core Entity x"]) --"@type"-->D(["Schema.org / Bioschemas type"])
-	C(["Core Entity x"]) --"additionalType"-->E(["Concept from external terminology"])
-	C(["Core Entity x"]) --"additionalProperty"-->G([" "])
-	G([" "])--"@type"-->H(["Schema.org: PropertyValue"])
-	G([" "])--... -->I(["..."])
-```
+![Publication Metadata Set Diagram](../images/Agrischemas_Modeling_Diagram.png)
 **Figure 2:** General structure of domain specific metadata in a Dataset metadata instance in Agrischemas.
 
 - For each property constructed via [additionalProperty](https://schema.org/additionalProperty), following properties are possibly used to define it:
@@ -900,18 +891,7 @@ An example metadata instance in Agrischemas could look like this:
 	- [maxValue](https://schema.org/maxValue): The maximum possible value of a specific measurement of a property.
 	- [valueReference](https://schema.org/valueReference): A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.
 
-```mermaid
-flowchart LR;
-A("Constructed property")--"@type"-->B(["Schema.org: PropertyValue"])
-A("Constructed property")--"name"-->C("soil sampling depth")
-A("Constructed property")--"description"-->D("The depth at which a sample of soil is collected during a soil sampling process.")
-A("Constructed property")--"propertyID"-->E("http://purl.obolibrary.org/obo/AGRO_00000701")
-A("Constructed property")--"unitText"-->F("centimeter")
-A("Constructed property")--"unitCode"-->G("http://purl.obolibrary.org/obo/UO_0000015")
-A("Constructed property")--"value"-->H("20")
-A("Constructed property")--"minValue"-->I("0")
-A("Constructed property")--"maxValue"-->J("60")
-```
+![Publication Metadata Set Diagram](../images/Agrischemas_Example_Property_Diagram.png)
 **Figure 3:** Soil sampling depth as an example for a constructed property.
 
 ### 3.2. Crop
