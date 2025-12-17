@@ -956,13 +956,13 @@ Types and properties from following namespaces are used:
 ## 3. Agrischemas
 ### 3.1 Design principles and modeling conventions
 Agrischemas aims at efficiently reusing established resources, only extending these where necessary. In general, the framework builds on following modeling conventions:
-- Agrischemas uses a set of existing Schema.org / [Bioschemas](https://bioschemas.org/types/) types to represent its core entities. The corresponding type for each core entity is listed in its chapter. Instances of the core entities are typed via the "@type" property.
-- Instances of the core entities are linked to [Dataset](https://schema.org/Dataset) via the [about](https://schema.org/about) property.
-- For semantic enrichment, instances of the core entities are further typed via the [additionalType](https://schema.org/additionalType) property, referencing specific semantic concepts.
-- Agrischemas makes use of the [additionalProperty](https://schema.org/additionalProperty) property in combination with the [PropertyValue](https://schema.org/PropertyValue) type to construct properties increasing the findability of datasets.
-- By using the [propertyID](https://schema.org/propertyID) property, these constructed properties are semantically enriched.
-- Where possible Agrischemas recommends the use of controlled vocabularies/terminologies for values of properties.
-- If the value of a property is more complex than a string, Agrischemas uses the [valueReference](https://schema.org/valueReference) to provide a link to a semantic concept for the value.
+- Agrischemas uses a set of existing Schema.org / [Bioschemas](https://bioschemas.org/types/) types to represent its core entities. The corresponding type for each core entity is listed in its chapter. Instances of the core entities are typed via the "@type" property.<br>
+- Instances of the core entities are linked to [Dataset](https://schema.org/Dataset) via the [about](https://schema.org/about) property.<br>
+- For semantic enrichment, instances of the core entities are further typed via the [additionalType](https://schema.org/additionalType) property, referencing specific semantic concepts.<br>
+- Agrischemas makes use of the [additionalProperty](https://schema.org/additionalProperty) property in combination with the [PropertyValue](https://schema.org/PropertyValue) type to construct properties increasing the findability of datasets.<br>
+- By using the [propertyID](https://schema.org/propertyID) property, these constructed properties are semantically enriched.<br>
+- Where possible Agrischemas recommends the use of controlled vocabularies/terminologies for values of properties.<br>
+- If the value of a property is more complex than a string, Agrischemas uses the [valueReference](https://schema.org/valueReference) to provide a link to a semantic concept for the value.<br>
 
 An example metadata instance in Agrischemas could look like this:
 ```mermaid
@@ -1012,7 +1012,7 @@ A("Constructed property")--"maxValue"-->J("60")
 A crop entity represents a sample of a specific plant or group of plants, sharing the same [taxonomic species](http://aims.fao.org/aos/agrovoc/c_331243), that are described in a dataset.
 
 Agrischemas recommends the following set of constructed properties to describe a crop entity:
-|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary
+|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary|
 |--|--|--|--|--|--|--|--|--|
 |CR_001|species|A group of organisms of common ancestry having common characteristics, that are able to reproduce only among themselves to produce fertile offspring and which are usually geographically distinct. It constitutes the fundamental rank in the taxonomic hierarchy.|http://aims.fao.org/aos/agrovoc/c_331243|/|/|/|/|AGROVOC concepts with the "has taxonomic rank" property with a value of [species](https://agrovoc.fao.org/browse/agrovoc/en/page/c_331243)
 |CR_002|variety|A plant grouping, within a single botanical taxon of the lowest known rank, defined by the reproducible expression of its distinguishing and other genetic characteristics. A formal rank in botanical taxonomic nomenclature|http://aims.fao.org/aos/agrovoc/c_1423211760123|/|/|/|/|/
@@ -1048,7 +1048,7 @@ For expressing pheontypic traits, we recommend using traits from the [Crop Ontol
 A soil entity represents a specific soil sample, that is described in a dataset, representative for a bigger unit of land.
 
 Agrischemas recommends the following set of constructed properties to describe a soil sample:
-|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary
+|ID|name| description |propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary|
 |--|--|--|--|--|--|--|--|--|
 |SO_001|soil texture|Soil texture (such as loam, sandy loam or clay) refers to the proportion of sand, silt and clay sized particles that make up the mineral fraction of the soil.|http://aims.fao.org/aos/agrovoc/c_7199|/|/|/|/|For USDA soil classification classes, use the following classes: [clay](https://lod.nal.usda.gov/nalt/26755), [silty clay](https://lod.nal.usda.gov/nalt/105830),[sandy clay](https://lod.nal.usda.gov/nalt/105829), [clay loam](https://lod.nal.usda.gov/nalt/26741), [silty clay loam](https://lod.nal.usda.gov/nalt/286875), [sandy clay loam](https://lod.nal.usda.gov/nalt/105828), [loam](https://lod.nal.usda.gov/nalt/50479), [silt loam](https://lod.nal.usda.gov/nalt/63100), [silt](https://lod.nal.usda.gov/nalt/63101), [sandy loam](https://lod.nal.usda.gov/nalt/62359), [loamy sand](https://lod.nal.usda.gov/nalt/105831), [sand](https://lod.nal.usda.gov/nalt/62360)
 |SO_002|reference group|The World Reference Base (WRB) is an international system for classification of soils. It was designed to cater for any soil in the world. WRB has come forth from an initiative of FAO and UNESCO, supported by UNEP and the International Union of Soil Sciences (IUSS).|http://aims.fao.org/aos/agrovoc/c_89f35c33|/|/|/|/|Use subclasses of the AGROVOC ["World Reference Base soil types"](http://aims.fao.org/aos/agrovoc/c_89f35c33) class 
@@ -1084,6 +1084,7 @@ The following, existing properties are recommended to describe a plot:
 |PL_002|elevation|Altitude, like elevation, is the distance above sea level.|http://aims.fao.org/aos/agrovoc/c_316|meter|http://purl.obolibrary.org/obo/UO_0000008|/|/|/
 |PL_003|plot size|The size of a specific plot measured in m².|http://aims.fao.org/aos/agrovoc/c_2893|square meter|http://purl.obolibrary.org/obo/UO_0000080|/|/|/
 |PL_004|spatial reference system|A spatial reference system (SRS) or coordinate reference system (CRS) is a framework used to precisely measure locations on the surface of Earth as coordinates.|https://www.commoncoreontologies.org/ont00000275|/|/|/|/|Please use [ESPG codes](https://epsg.io/), e.g. "EPSG:4326" for WGS 84, where possible 
+
 #### 3.2.4 Sensor
  - **Definition**: A device, somehow related to a dataset, that observes and measures a physical property of a natural phenomenon or man-made process and converts that measurement into a signal (chemical, electrical or other).
 	 - [Definition source](http://aims.fao.org/aos/agrovoc/c_28279)
