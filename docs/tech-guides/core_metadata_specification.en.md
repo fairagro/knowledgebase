@@ -1,32 +1,35 @@
 # FAIRagro Core Metadata Specification
-Version 1.0
+*Version 1.0*
+
 ##  1. Introduction and motivation
 FAIRagro offers a metadata framework for publishing research datasets in the agrosystem domain and is meant to be implemented in data publication services such as Research Data Infrastructures (RDIs) and data repositories.
 
-For generic metadata, the Publication Metadata Set builds on Schema.org and other standards ([DC Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/), [DCAT](https://www.w3.org/TR/vocab-dcat-3/)) and combines these to define a set of types, properties and cardinalities and links between the types. 
+For generic metadata, the Publication Metadata Set builds on Schema.org and other standards ([DC Terms](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/){:target="_blank"}, [DCAT](https://www.w3.org/TR/vocab-dcat-3/){:target="_blank"}) and combines these to define a set of types, properties and cardinalities and links between the types. 
 
-Domain specific metadata is expressed through the Agrischemas framework. It additionaly builds on [Bioschemas](https://bioschemas.org/) to add agricultural related information to [Dataset](https://schema.org/Dataset) metadata with a focus on increasing its findability. It uses existing [types](https://bioschemas.org/types/) and [properties](https://schema.org/Property) and recommends semantic concepts to achieve interoperability. It can be implemented in already existing Schema.org interfaces by mapping domain-specific information available in local data/metadata to structures described in this document. **Agrischemas offers a list of recommended types and properties for findability based on this approach.**
+Domain specific metadata is expressed through the Agrischemas framework. It additionaly builds on [Bioschemas](https://bioschemas.org/){:target="_blank"} to add agricultural related information to [Dataset](https://schema.org/Dataset){:target="_blank"} metadata with a focus on increasing its findability. It uses existing [types](https://bioschemas.org/types/){:target="_blank"} and [properties](https://schema.org/Property){:target="_blank"} and recommends semantic concepts to achieve interoperability. It can be implemented in already existing Schema.org interfaces by mapping domain-specific information available in local data/metadata to structures described in this document. **Agrischemas offers a list of recommended types and properties for findability based on this approach.**
 
-These two components of FAIRagros metadata approach define a Core Metadata Specification to make required information available for FAIRagro services such as the [FAIRagro Search Hub](https://search-hub.fairagro.net/) which is based on [Dataverse](https://dataverse.org/). The Core Metadata Specification is harmonized with existing generic metadata standards as well as ongoing [NFDI](https://www.nfdi.de/) wide developments.
+These two components of FAIRagros metadata approach define a Core Metadata Specification to make required information available for FAIRagro services such as the [FAIRagro Search Hub](https://search-hub.fairagro.net/){:target="_blank"} which is based on [Dataverse](https://dataverse.org/){:target="_blank"}. The Core Metadata Specification is harmonized with existing generic metadata standards as well as ongoing [NFDI](https://www.nfdi.de/){:target="_blank"} wide developments.
 
 ##  2. Publication Metadata Set
 ![Publication Metadata Set Diagram](../images/Publication_Metadata_Set_Diagram.png)
-**Figure 1:** FAIRagros Publication Metadata Set types and their relations to each other. Mandatory properties of each type are marked with a "*".
+/// caption
+**Figure 1:** FAIRagros Publication Metadata Set types and their relations to each other. Mandatory properties of each type are marked with a “*”.
+///
 
-Cardinalities are defined in relation to their respective concepts. 
-<br>**Example:** A cardinality of "1" for a property does only apply, if an instance of its related concept exists. This doesn’t necessitate the existence of such an instance.
+Cardinalities are defined in relation to their respective concepts.  
+**Example:** A cardinality of “1” for a property does only apply, if an instance of its related concept exists. This doesn’t necessitate the existence of such an instance.
 
 Types and properties from following namespaces are used:
-<ul>
-<li>Schema.org: https://schema.org/</li>
-<li>DC Terms: http://purl.org/dc/terms/</li>
-<li>DCAT: http://www.w3.org/ns/dcat#</li>
-</ul>
+
+- Schema.org: [https://schema.org](https://schema.org){:target="_blank"}
+- DC Terms: [http://purl.org/dc/terms](http://purl.org/dc/terms){:target="_blank"}
+- DCAT: [http://www.w3.org/ns/dcat#](http://www.w3.org/ns/dcat#){:target="_blank"}
+
 
 
 ### 2.1 Dataset
 
-**Definition:** "A body of structured information describing some topic(s) of interest."
+**Definition:** “A body of structured information describing some topic(s) of interest.”
 
 **Representation:**
 ```
@@ -36,9 +39,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.1 Title
-**Definition:** "The main title of the Dataset." (Definition taken from Dataverse)
-<br>**Cardinality:** 1
-<br>**Range:** Text
+**Definition:** “The main title of the Dataset.” (Definition taken from Dataverse)  
+**Cardinality:** 1  
+**Range:** Text
 
 **Representation:**
 ```
@@ -48,9 +51,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.2 Alternative title
-**Definition:** "Either 1) a title commonly used to refer to the Dataset or 2) an abbreviation of the main title.” (taken from DataVerse)." (Definition taken from Dataverse)
-<br>**Cardinality:** 0-n
-<br>**Range:** Text
+**Definition:** “Either 1) a title commonly used to refer to the Dataset or 2) an abbreviation of the main title.” (Definition taken from Dataverse)  
+**Cardinality:** 0-n  
+**Range:** Text
 
 **Representation:**
 ```
@@ -58,10 +61,11 @@ Types and properties from following namespaces are used:
 	"https://schema.org/alternativeHeadline": "An alternative title"
 }
 ```
+
 #### 2.1.3 Author
-**Definition:** "The entity, e.g. a person or organization, that created the Dataset." (Definition taken from Dataverse)
-<br>**Cardinality:** 1-n
-<br>**Range:** Person/Organization
+**Definition:** “The entity, e.g. a person or organization, that created the Dataset.” (Definition taken from Dataverse)  
+**Cardinality:** 1-n  
+**Range:** Person/Organization
 
 **Representation:**
 ```
@@ -85,10 +89,10 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.4 Point of Contact
-**Definition:** "The entity, e.g. a person or organization, that users of the Dataset can contact with questions." (Definition taken from Dataverse)
-<br>**Cardinality:** 1-n
-<br>**Range:** Person/Organization
-<br>**Comment:**  [Schema.org](http://schema.org) doesn’t offer a fitting property or type to express this role. The [https://schema.org/ContactPoint](https://schema.org/ContactPoint) type and its related [https://schema.org/contactPoint](https://schema.org/contactPoint) are meant to express a contact point for a person/organization, not to express a person/organization as a contact point, as it is defined in Dataverse. To still model this information, at least one person/organization related to a Dataset as an author or contributor, needs to be additionally typed by adding an [https://schema.org/additionalType](https://schema.org/additionalType) property with the value "Contact Point" to the person/organization metadata object.
+**Definition:** “The entity, e.g. a person or organization, that users of the Dataset can contact with questions.” (Definition taken from Dataverse)  
+**Cardinality:** 1-n  
+**Range:** Person/Organization  
+**Comment:**  [Schema.org](http://schema.org){:target="_blank"} doesn’t offer a fitting property or type to express this role. The [https://schema.org/ContactPoint](https://schema.org/ContactPoint){:target="_blank"} type and its related [https://schema.org/contactPoint](https://schema.org/contactPoint){:target="_blank"} are meant to express a contact point for a person/organization, not to express a person/organization as a contact point, as it is defined in Dataverse. To still model this information, at least one person/organization related to a Dataset as an author or contributor, needs to be additionally typed by adding an [https://schema.org/additionalType](https://schema.org/additionalType){:target="_blank"} property with the value “Contact Point” to the person/organization metadata object.
 
 **Representation:**
 ```
@@ -106,9 +110,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.5 Contributor
-**Definition:** "The entity, such as a person or organization, responsible for collecting, managing, or otherwise contributing to the development of the Dataset." (Definition taken from Dataverse)
-<br>**Cardinality:** 0-n
-<br>**Range:** Person/Organization
+**Definition:** “The entity, such as a person or organization, responsible for collecting, managing, or otherwise contributing to the development of the Dataset.” (Definition taken from Dataverse)  
+**Cardinality:** 0-n  
+**Range:** Person/Organization
 
 **Representation:**
 ```
@@ -128,9 +132,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.6 Description
-**Definition:** "A summary describing the purpose, nature, and scope of the Dataset." (Definition taken from Dataverse)
-<br>**Cardinality:** 1-n
-<br>**Range:** Text
+**Definition:** “A summary describing the purpose, nature, and scope of the Dataset.” (Definition taken from Dataverse)  
+**Cardinality:** 1-n  
+**Range:** Text
 
 **Representation:**
 ```
@@ -138,11 +142,12 @@ Types and properties from following namespaces are used:
   "https://schema.org/description": "An example description"
 }
 ```
+
 #### 2.1.7 Subject
-**Definition:** "The area of study relevant to the Dataset." (Definition taken from Dataverse)
-<br>**Cardinality:** 1-n
-<br>**Range:** DefinedTerm
-<br>**Comment:** Dataverse uses a fixed list of subjects it accepts. For the agricultural domain, everything would fall under "Agricultural Sciences". To express this information use [https://schema.org/about](https://schema.org/about), link it to a [https://schema.org/DefinedTerm](https://schema.org/DefinedTerm) instance and use AGROVOCs "agricultural sciences" concept ([http://aims.fao.org/aos/agrovoc/c_49876](http://aims.fao.org/aos/agrovoc/c_49876)) for its value.
+**Definition:** “The area of study relevant to the Dataset.” (Definition taken from Dataverse)  
+**Cardinality:** 1-n  
+**Range:** DefinedTerm  
+**Comment:** Dataverse uses a fixed list of subjects it accepts. For the agricultural domain, everything would fall under “Agricultural Sciences”. To express this information use [https://schema.org/about](https://schema.org/about){:target="_blank"}, link it to a [https://schema.org/DefinedTerm](https://schema.org/DefinedTerm){:target="_blank"} instance and use AGROVOCs “agricultural sciences” concept ([http://aims.fao.org/aos/agrovoc/c_49876](http://aims.fao.org/aos/agrovoc/c_49876){:target="_blank"}) for its value.
 
 **Representation:**
 ```
@@ -159,10 +164,10 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.8 Identifier
-**Definition:** "A unique identifier for the Dataset (e.g. producer's or repository's identifier)." (changed from DataVerse "otherId" definition)
-<br>**Cardinality:** 1-n
-<br>**Range:** Identifier
-<br>**Comment:** This property is used to store the identifiers from original data sources such as Research Data Infrastructures. Compared to Dataverses "otherId" property, it is mandatory for the FAIRagro Publication Metadata Set.
+**Definition:** “A unique identifier for the Dataset (e.g. producer's or repository's identifier).” (changed from DataVerse “otherId” definition)  
+**Cardinality:** 1-n  
+**Range:** Identifier  
+**Comment:** This property is used to store the identifiers from original data sources such as Research Data Infrastructures. Compared to Dataverses “otherId” property, it is mandatory for the FAIRagro Publication Metadata Set.
 
 **Representation:**
 ```
@@ -172,10 +177,11 @@ Types and properties from following namespaces are used:
   }
 }
 ```
+
 #### 2.1.9 Keyword(s)
-**Definition:** "A key term that describes an important aspect of the Dataset and information about any controlled vocabulary used." (Definition taken from Dataverse)
-<br>**Cardinality:** 1-n
-<br>**Range:** DefinedTerm
+**Definition:** “A key term that describes an important aspect of the Dataset and information about any controlled vocabulary used.” (Definition taken from Dataverse)  
+**Cardinality:** 1-n  
+**Range:** DefinedTerm
 
 **Representation:**
 ```
@@ -187,10 +193,10 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.10 License
-**Definition:** "License defining the rights to (re-)use the dataset." (Definition taken from Dataverse)
-<br>**Cardinality:** 1
-<br>**Range:** URL
-<br>**Comment:** If possible, the "License" property should link to a record from the SPDX license list ([https://spdx.org/licenses/](https://spdx.org/licenses/)), a record from the Creative Commons license list ([https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/)) or to a separate ODRL compliant file.
+**Definition:** “License defining the rights to (re-)use the dataset.” (Definition taken from Dataverse)  
+**Cardinality:** 1  
+**Range:** URL  
+**Comment:** If possible, the “License” property should link to a record from the SPDX license list ([https://spdx.org/licenses](https://spdx.org/licenses/){:target="_blank"}), a record from the Creative Commons license list ([https://creativecommons.org/share-your-work/cclicenses](https://creativecommons.org/share-your-work/cclicenses/){:target="_blank"}) or to a separate ODRL compliant file.
 
 **Representation:**
 ```
@@ -200,9 +206,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.11 URL
-**Definition:** "An URL where one can view or access the data in the Dataset, e.g. the webpage of a Research Data Infrastructure." (changed from DataVerse "alternativeURL")
-<br>**Cardinality:** 1
-<br>**Range:** URL
+**Definition:** “An URL where one can view or access the data in the Dataset, e.g. the webpage of a Research Data Infrastructure.” (changed from DataVerse "alternativeURL")  
+**Cardinality:** 1  
+**Range:** URL
 
 **Representation:**
 ```
@@ -212,9 +218,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.12 Spatial coverage
-**Definition:** "The spatialCoverage of a Dataset indicates the place(s) which are the focus of the content." (Definition changed from Schema.org "[https://schema.org/spatialCoverage](https://schema.org/spatialCoverage)")
-<br>**Cardinality:** 0-n
-<br>**Range:** Place
+**Definition:** “The spatialCoverage of a Dataset indicates the place(s) which are the focus of the content.” (Definition changed from Schema.org "[https://schema.org/spatialCoverage](https://schema.org/spatialCoverage){:target="_blank"}")  
+**Cardinality:** 0-n  
+**Range:** Place
 
 **Representation:**
 ```
@@ -226,9 +232,9 @@ Types and properties from following namespaces are used:
 ```
 
 #### 2.1.13 Temporal coverage
-**Definition:** "The temporalCoverage of a Dataset indicates the period that the content applies to, i.e. that it describes, either as a DateTime or as a textual string indicating a time period in [ISO 8601 time interval format](https://en.wikipedia.org/wiki/ISO_8601#Time_intervals). Open-ended date ranges can be written with ".." in place of the end date. For example, "2015-11/.." indicates a range beginning in November 2015 and with no specified final date." (Definition changed from [https://schema.org/temporalCoverage](https://schema.org/temporalCoverage))
-<br>**Cardinality:** 0-1
-<br>**Range:** Text / DateTime
+**Definition:** “The temporalCoverage of a Dataset indicates the period that the content applies to, i.e. that it describes, either as a DateTime or as a textual string indicating a time period in [ISO 8601 time interval format](https://en.wikipedia.org/wiki/ISO_8601#Time_intervals){:target="_blank"}. Open-ended date ranges can be written with ".." in place of the end date. For example, "2015-11/.." indicates a range beginning in November 2015 and with no specified final date.” (Definition changed from [https://schema.org/temporalCoverage](https://schema.org/temporalCoverage){:target="_blank"})  
+**Cardinality:** 0-1  
+**Range:** Text / DateTime
 
 **Representation:**
 ```
@@ -236,6 +242,7 @@ Types and properties from following namespaces are used:
   "https://schema.org/temporalCoverage": "2022 - 2023"
 }
 ```
+
 #### 2.1.14 Version
 **Definition:** "The version number of the dataset."
 <br>**Cardinality:** 0-1
