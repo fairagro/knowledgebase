@@ -46,7 +46,9 @@ theme:
     icon:
       tag:
         author: fontawesome/solid/user
-        
+
+extra_javascript:
+  - assets/password-protect.js
 
 # Language settings
 plugins:
