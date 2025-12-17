@@ -1,6 +1,5 @@
-// Simple password protection (client-side, not secure for sensitive data)
 (function() {
-  var password = "fairagro2025"; // Change this to your desired password
+  var password = "fairagro@@";
   var isAuthenticated = sessionStorage.getItem('authenticated') === 'true';
   
   if (!isAuthenticated) {
