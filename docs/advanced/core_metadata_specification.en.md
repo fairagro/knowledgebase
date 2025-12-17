@@ -529,7 +529,7 @@ Types and properties from following namespaces are used:
 **Definition:** "Defines if an entity is a person or an organization."
 <br>**Cardinality:** 1
 <br>**Range:**[https://schema.org/Person](https://schema.org/Person) / [https://schema.org/Organization](https://schema.org/Organization)
-**Comment**: Choosing the correct type depends on the property it is used for as a value. For the "author" property, it will most likely be a [https://schema.org/Person](https://schema.org/Person), whereas it will most likely be a [https://schema.org/Organization](https://schema.org/Organization) as a value for the "affiliation" property.
+<br>**Comment**: Choosing the correct type depends on the property it is used for as a value. For the "author" property, it will most likely be a [https://schema.org/Person](https://schema.org/Person), whereas it will most likely be a [https://schema.org/Organization](https://schema.org/Organization) as a value for the "affiliation" property.
 
 
 **Representation:**
@@ -907,7 +907,7 @@ Types and properties from following namespaces are used:
 **Definition:** "A box is the area enclosed by the rectangle formed by two points. The first point is the lower corner, the second point is the upper corner. A box is expressed as two points separated by a space character." (Definition taken from [https://schema.org/box](https://schema.org/box))
 <br>**Cardinality:** 1
 <br>**Range:** Text
-**Comments:** [Schema.org](http://schema.org) uses the [https://schema.org/GeoShape](https://schema.org/GeoShape) type to attach geospatial information to a Place object, via the [https://schema.org/geo](https://schema.org/geo) property. A bounding box can then be attached to this object.
+**Comment:** [Schema.org](http://schema.org) uses the [https://schema.org/GeoShape](https://schema.org/GeoShape) type to attach geospatial information to a Place object, via the [https://schema.org/geo](https://schema.org/geo) property. A bounding box can then be attached to this object.
 
 **Representation:**
 ```
@@ -1073,6 +1073,7 @@ If you want to represent additional soil properties, we recommend using subclass
 A plot entity represents a single plot that is somehow related to a dataset.
 
 The following, existing properties are recommended to describe a plot:
+
 |Property|Expected type|Description|Cardinality|Controlled Vocabulary|
 |--|--|--|--|--|
 |name|[Text](https://schema.org/Text)|The name of the place.|MANY|/
