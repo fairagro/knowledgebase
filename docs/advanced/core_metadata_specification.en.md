@@ -1002,8 +1002,7 @@ A("Constructed property")--"maxValue"-->J("60")
 ```
 **Figure 3:** Soil sampling depth as an example for a constructed property.
 
-### 3.2 Core entities
-#### 3.2.1 Crop
+### 3.2. Crop
 **Definition:** Plants cultivated for food, fiber, livestock fodder or other uses, usually sown and harvested during a single agricultural year.<br>
 	- [Definition source](http://aims.fao.org/aos/agrovoc/c_1972)<br>
 - **Type:** [BioSample](https://bioschemas.org/BioSample)<br>
@@ -1040,7 +1039,7 @@ For expressing pheontypic traits, we recommend using traits from the [Crop Ontol
 }				
 ```
 
-#### 3.2.2 Soil
+### 3.3 Soil
  **Definition:** Upper layer of the earth in which plants grow.<br>
 	- [Definition source](http://aims.fao.org/aos/agrovoc/c_7156)<br>
 - **Type:** [Sample](https://bioschemas.org/Sample)<br>
@@ -1064,7 +1063,7 @@ Agrischemas recommends the following set of constructed properties to describe a
 
 If you want to represent additional soil properties, we recommend using subclasses of the AGROVOC [soil properties](http://aims.fao.org/aos/agrovoc/c_330883) concept.
 
-#### 3.2.3 Plot
+### 3.4 Plot
 - **Definition:** An area of land, somehow related to a dataset, with a particular ownership, land use, or other characteristic.<br>
 	 - [Definition source](http://aims.fao.org/aos/agrovoc/c_fdfbb37f)<br>
 - **Type:** [Place](https://schema.org/Place)<br>
@@ -1088,7 +1087,7 @@ The following, existing properties are recommended to describe a plot:
 |PL_003|plot size|The size of a specific plot measured in m².|http://aims.fao.org/aos/agrovoc/c_2893|square meter|http://purl.obolibrary.org/obo/UO_0000080|/|/|/
 |PL_004|spatial reference system|A spatial reference system (SRS) or coordinate reference system (CRS) is a framework used to precisely measure locations on the surface of Earth as coordinates.|https://www.commoncoreontologies.org/ont00000275|/|/|/|/|Please use [ESPG codes](https://epsg.io/), e.g. "EPSG:4326" for WGS 84, where possible 
 
-#### 3.2.4 Sensor
+### 3.5 Sensor
  - **Definition**: A device, somehow related to a dataset, that observes and measures a physical property of a natural phenomenon or man-made process and converts that measurement into a signal (chemical, electrical or other).<br>
 	 - [Definition source](http://aims.fao.org/aos/agrovoc/c_28279)<br>
  - **Type:**[Product](https://schema.org/Product)<br>
@@ -1106,7 +1105,7 @@ The following, existing properties are recommended to describe a sensor:
 |SE_004|band category|Describes if a sensor uses single, multi or hyper spectral bands.|/|/|/|/|/|<ul><li>single-band</li><li>multi-band</li><li>hyper-spectral</li><li> broadband</li></ul>
 |SE_004|spectral band|Describes a specific spectral band of a sensor|/|/|/|/|/|/
 
-#### 3.2.5 Agricultural process
+### 3.6 Agricultural process
 - **Definition**: A planned process which occurs in an agricultural field.<br>
 	- [Definition source](http://purl.obolibrary.org/obo/AGRO_00002071)<br>
  - **Type:** [LabProcess](https://bioschemas.org/LabProcess)<br>
