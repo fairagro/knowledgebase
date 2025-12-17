@@ -1064,6 +1064,6 @@ For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@
 (*Last Update: 2025-12-17*)
 
 ## How to cite this page?
-Schneider, G., Jung, J., Reinosch, N. & Martini, D. et al. *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/](https://knowledgebase.fairagro.net/en/advanced/core_metadata_specification/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Schneider, G., Jung, J., Reinosch, N. & Martini, D. et al. *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/](https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
