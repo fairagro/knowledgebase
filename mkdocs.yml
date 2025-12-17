@@ -1,8 +1,8 @@
-# Project configuration
+# Project configuration site_url: https://your-username.github.io/knowledgebase-dev
 site_name: FAIRagro Knowledge Base
-site_url: https://knowledgebase.fairagro.net/
+#+ site_url: https://knowledgebase.fairagro.net/
 
-
+site_url: https://01p.github.io/fairagro-kb
 # Navigation Header Deutsch (English Override -> language settings)
 nav:
     - Erste Schritte: index.de.md
