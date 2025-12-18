@@ -1,3 +1,7 @@
+---
+title: Tech-Guides
+---
+
 # Where can I find technical guides and documentation?
 
 In addition to basic issues relating to agriculture-specific research data management (RDM), FAIRagro also deals with more **technical aspects**.

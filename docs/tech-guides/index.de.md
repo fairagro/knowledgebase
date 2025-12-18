@@ -1,3 +1,7 @@
+---
+title: Tech-Guides
+---
+
 # Wo finde ich technische Guides und Dokumentationen?
 
 Neben den grundlegenden Fragen des agrar-spezifischen Forschungsdatenmanagements (FDM) beschäftigt sich FAIRagro auch mit eher **technischen Aspekten**.
