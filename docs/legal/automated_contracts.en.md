@@ -21,12 +21,12 @@ Consequently, a contract can be entered into purely based on legal metadata, bas
 
 ---
 # <small>Contributors</small>
-:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
+:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541){:target="_blank"}
 
 (*Last Update: 2025-09-25*)
 
 ---
 #<small>How to cite this page?</small>
-Breß, C. (2025). *Automated Contracts*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/automated_contracts](https://knowledgebase.fairagro.net/en/legal/automated_contracts). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Breß, C. (2025). *Automated Contracts*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/automated_contracts](https://knowledgebase.fairagro.net/en/legal/automated_contracts). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
