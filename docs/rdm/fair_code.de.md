@@ -30,13 +30,13 @@ Fahrplan zur FAIRen Veröffentlichung von wissenschaftlich generiertem Code. (Be
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
-:fontawesome-solid-user: Florian Beyer [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-9203-320X)
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
+:fontawesome-solid-user: Florian Beyer [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-9203-320X){:target="_blank"}
 
 (*Letztes Update: 2025-09-11*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Beyer, F. (2025). *FAIRe Code-Veröffentlichung*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/fair-code/](https://knowledgebase.fairagro.net/rdm/fair_code/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Beyer, F. (2025). *FAIRe Code-Veröffentlichung*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/fair-code/](https://knowledgebase.fairagro.net/rdm/fair_code/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
