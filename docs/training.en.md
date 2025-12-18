@@ -59,11 +59,24 @@ The materials are published on Zenodo:
 
 #### Legal Workshop Series
 
-As part of the [Legal Workshop Series](https://fairagro.net/en/legal-workshop-series/) **“Don't panic! Survival guide for Law and Ethics in Research”**, organised by FAIRagro, NFDI4Biodiversity and NFDI4Earth, the first episode, “[Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){:target=‘_blank’}”, was conducted in April 2025 by Lea Singson and Sophie Boße.
+As part of the [Legal Workshop Series](https://fairagro.net/en/legal-workshop-series/){:target="_blank"} **“Don't panic! Survival guide for Law and Ethics in Research”**, organised by FAIRagro, NFDI4Biodiversity and NFDI4Earth, the first episode “Data protection on a silver platter” (“[Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){{:target="_blank"}}”, German only) was conducted in April 2025 by Lea Singson and Sophie Boße.
 The materials, incl. the recording, are also published on Zenodo (German only):
 
 - Singson, L. S., & Boße, S. (2025). **Datenschutz auf dem Silbertablett - Trainingsmaterial**. Publisso. [https://doi.org/10.4126/FRL01-006402743](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}
 
+
+The next episode produced by FAIRagro is entitled “The licence to research: Who owns research data and what am I allowed to do with it?” (“[Die Lizenz zum Forschen: Wem gehören Forschungsdaten und was darf ich damit tun?](https://fairagro.net/event/legal-workshop-episode-iii-die-lizenz-zum-forschen-wem-gehoeren-forschungsdaten-und-was-darf-ich-damit-tun/){:target="_blank"}”, German only).
+It will take place from 24 to 26 March 2026.
+Further information can be found in the [FAIRagro training calendar]((https://fairagro.net/event/legal-workshop-episode-iii-die-lizenz-zum-forschen-wem-gehoeren-forschungsdaten-und-was-darf-ich-damit-tun/){:target="_blank"}).
+
+
+#### Cooperation with NFDI4BIOIMAGE
+In November 2025, two of the FAIRagro Data Stewards, together with colleagues from NFDI4BIOIMAGE, held a three-part training workshop on **“Image Data Management in the Biological Sciences and Agricultural Research”** at the University of Kassel.
+After a joint introduction to the topic, the group was divided into two groups for modules 2 and 3, focusing on microscopy and agricultural sciences.
+The two FAIRagro modules dealt with “Observation data: From ground robots to UAVs” and “Satellite and grid data: the view from above”.
+All materials from the entire workshop are published on Zenodo:
+
+- Vedder, L., Peschel, P., Bortolomeazzi, M., Schmidt, C., & Schröder, K. (2025). **[Workshop] Image Data Management in the Biological Sciences and Agriculture Research**. Zenodo. [https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401){:target="_blank"}
 
 
 ---
@@ -71,7 +84,7 @@ The materials, incl. the recording, are also published on Zenodo (German only):
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
 :fontawesome-solid-user: Sophie Boße [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Last Update: 2025-09-11*)
+(*Last Update: 2025-12-18*)
 
 ---
 #<small>How to cite this page?</small>
