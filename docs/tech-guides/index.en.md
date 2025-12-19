@@ -14,7 +14,7 @@ One of the most important topics in the area of “FAIR RDM” is **metadata**.
 *Which core metadata set is recommended by FAIRagro and how can it be implemented?* &rarr; [Core Metadata Specification](core_metadata_specification.md)
 
 A more basic introduction to metadata can be found here:  
-*What can I do in practice (even without much prior knowledge) to document data/collect metadata?* &rarr; [Practical guide to metadata](../rdm/metadata_guide.md)
+*What can I do in practice (even without much prior knowledge) to document data/collect metadata?* &rarr; [Practical Guide Metadata](../rdm/metadata_guide.md)
 
 
 ## Detailed Documentations

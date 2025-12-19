@@ -12,6 +12,7 @@ nav:
         - Agrarspezifische Daten: rdm/specific_data.de.md
         - Repositorien: rdm/data_repositories.de.md
         - FAIRe Code-Veröffentlichung: rdm/fair_code.de.md
+        - Praxisleitfaden Metadaten: rdm/metadata_guide.de.md
     - FDM & Recht: 
         - legal/index.de.md
         - Rechte an Daten: legal/rights.de.md
@@ -78,6 +79,7 @@ plugins:
                 - Agriculture-specific Data: rdm/specific_data.en.md
                 - Repositories: rdm/data_repositories.en.md
                 - Publishing Code FAIR: rdm/fair_code.en.md
+                - Practical Guide Metadata: rdm/metadata_guide.en.md
             - RDM & Legal: 
                 - legal/index.en.md
                 - Data Rights: legal/rights.en.md
