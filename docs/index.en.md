@@ -15,7 +15,7 @@ If you want to learn more about the project, please visit the [FAIRagro website]
 
 ## Who is it for?
 This resource is intended for all those interested in **agrosystem research** and who want to be a part of the change towards **FAIR data**.  
-Whether you’re just getting started with **FAIR data** or looking for specific technical support – this knowledgebase will guide you step by step.
+Whether you’re just getting started with **FAIR data** or looking for specific technical support – this Knowledge Base will guide you step by step.
 
 
 ## Who made it?
@@ -32,8 +32,8 @@ If you have **feedback**, **comments** or any **questions** regarding RDM, pleas
 
 ---
 #<small>How is it licensed and how can I cite it?</small>
-The FAIRagro Knowledge Base is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+The FAIRagro Knowledge Base is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
 
 Information about the respective **contributors** and **how to cite** the respective page can be found at the very bottom of *every* page.
 
-[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

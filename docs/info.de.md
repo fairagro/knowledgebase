@@ -38,14 +38,14 @@ Die Knowledge Bases einiger Konsortien im Cluster findet ihr hier:
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
-:fontawesome-solid-user: Marcus Schmidt [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-5546-5521),
-:fontawesome-solid-user: Elena Rey Mazón [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0003-4813-5927)
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
+:fontawesome-solid-user: Marcus Schmidt [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-5546-5521){:target="_blank"},
+:fontawesome-solid-user: Elena Rey Mazón [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0003-4813-5927){:target="_blank"}
 
 (*Letztes Update: 2025-09-11*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L., Schmidt, M. & Rey Mazón, E. (2025). *Netzwerk & Mehr*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/info/](https://knowledgebase.fairagro.net/info/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L., Schmidt, M. & Rey Mazón, E. (2025). *Netzwerk & Mehr*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/info/](https://knowledgebase.fairagro.net/info/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

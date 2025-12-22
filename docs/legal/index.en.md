@@ -36,11 +36,12 @@ The following (legal) questions arise in this context:
 - [Unity and justice and (academic) freedom](https://fairagro.net/en/unity-and-justice-and-academic-freedom/) Why it is more than just a sentence on paper
 - [No copyright, no problem?](https://fairagro.net/en/no-copyright-no-problem-the-consequences-of-incorrect-citation/) The consequences of incorrect citation
 - [Text- and Data Mining vs. AI](https://fairagro.net/en/text-and-data-mining-vs-ai/) Hamburg Regional Court Rules on the Creation of a Training Data Set
-- [Wo ein Richter, da kein Schöpfer?](https://fairagro.net/wo-ein-richter-da-kein-schoepfer/) A special blog post on the topics of copyright and level of creativity (*German only*)
-- [Von der Forschung zur Verschwörung: Mittel gegen Missbrauch von Publikationen](https://fairagro.net/von-der-forschung-zur-verschwoerung-mittel-gegen-missbrauch-von-publikationen/) What to do when research is misused to spread conspiracy theories? (*German only*)
-- [Freie Fahrt? Die Schranken des Urheberrechts](https://fairagro.net/freie-fahrt-die-schranken-des-urheberrechts/) About copyright (*German only*)
-- [CCPL-Praxiskommentar und Handbuch: Gute Nachrichten für die Forschung!](https://fairagro.net/ccpl-praxiskommentar-und-handbuch-gute-nachrichten-fuer-die-forschung/) On the publication of the first legal commentary on all issues relating to the Creative Commons Public Licence (CCPL) (*German only*)
-- [Die eigene Publikation (nach-)nutzen](https://fairagro.net/die-eigene-publikation-nach-nutzen-das-gilt/) (Re-)use of own publications (*German only*)
+- [How to (re)use your own publication](https://fairagro.net/en/how-to-reuse-your-own-publication/) 
+
+- [*Wo ein Richter, da kein Schöpfer?*](https://fairagro.net/wo-ein-richter-da-kein-schoepfer/) A special blog post on the topics of copyright and level of creativity (*German only*)
+- [*Von der Forschung zur Verschwörung: Mittel gegen Missbrauch von Publikationen*](https://fairagro.net/von-der-forschung-zur-verschwoerung-mittel-gegen-missbrauch-von-publikationen/) What to do when research is misused to spread conspiracy theories? (*German only*)
+- [*Freie Fahrt? Die Schranken des Urheberrechts*](https://fairagro.net/freie-fahrt-die-schranken-des-urheberrechts/) About copyright (*German only*)
+- [*CCPL-Praxiskommentar und Handbuch: Gute Nachrichten für die Forschung!*](https://fairagro.net/ccpl-praxiskommentar-und-handbuch-gute-nachrichten-fuer-die-forschung/) On the publication of the first legal commentary on all issues relating to the Creative Commons Public Licence (CCPL) (*German only*)
 
 
 ## Training opportunities
@@ -53,13 +54,13 @@ Further information on the (general) training opportunities can be found [here](
 
 ---
 # <small>Contributors</small>
-:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
-:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
+:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541){:target="_blank"}
 
-(*Last Update: 2025-09-25*)
+(*Last Update: 2025-11-14*)
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Breß, C. (2025). *RDM & Legal*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/](https://knowledgebase.fairagro.net/en/legal/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Breß, C. (2025). *RDM & Legal*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/](https://knowledgebase.fairagro.net/en/legal/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
