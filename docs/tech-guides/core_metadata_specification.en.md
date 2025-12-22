@@ -889,7 +889,7 @@ Agrischemas aims at efficiently reusing established resources, only extending th
 - Agrischemas makes use of the [additionalProperty](https://schema.org/additionalProperty){:target="_blank"} property in combination with the [PropertyValue](https://schema.org/PropertyValue){:target="_blank"} type to construct properties increasing the findability of datasets.
 - By using the [propertyID](https://schema.org/propertyID){:target="_blank"} property, these constructed properties are semantically enriched.
 - Where possible Agrischemas recommends the use of controlled vocabularies/terminologies for values of properties.
-- If the value of a property is more complex than a string, Agrischemas uses the [valueReference](https://schema.org/valueReference){:target="_blank"} to provide a link to a semantic concept for the value.
+- If the value of a property is more complex than a string, Agrischemas uses the [valueReference](https://schema.org/valueReference){:target="_blank"} to provide a link to a semantic concept for the value. A [DefinedTerm](https://schema.org/DefinedTerm){:target="_blank"} object should be used to express this additional information.
 
 An example metadata instance in Agrischemas could look like this:
 
@@ -907,7 +907,7 @@ An example metadata instance in Agrischemas could look like this:
 	- [value](https://schema.org/value){:target="_blank"}: The value of a specific measurement of a property.
 	- [minValue](https://schema.org/minValue){:target="_blank"}: The minimum possible value of a specific measurement of a property.
 	- [maxValue](https://schema.org/maxValue){:target="_blank"}: The maximum possible value of a specific measurement of a property.
-	- [valueReference](https://schema.org/valueReference){:target="_blank"}: A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement.
+	- [valueReference](https://schema.org/valueReference){:target="_blank"}: A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement. Point to a [DefinedTerm](https://schema.org/DefinedTerm){:target="_blank"} object.
 
 ![Publication Metadata Set Diagram](../images/Agrischemas_Example_Property_Diagram.png)
 /// caption
