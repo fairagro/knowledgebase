@@ -4,13 +4,19 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * MON"
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 permissions:
   contents: read
   issues: write
 
 jobs:
-  extermal-link-check:
+  external-link-check:
     name: External Link Check
     runs-on: ubuntu-latest
     steps:            

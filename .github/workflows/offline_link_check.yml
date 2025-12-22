@@ -1,4 +1,4 @@
-name: Internal Links
+name: Check for dead internal links
 
 on:
   push:
@@ -16,7 +16,7 @@ permissions:
 
 jobs:
   link-check:
-    name: Offline Link Check
+    name: Internal Link Check
     runs-on: ubuntu-latest
     steps:            
       - uses: actions/checkout@v4
@@ -45,6 +45,6 @@ jobs:
         if: steps.lychee-check.outputs.exit_code != 0 
         uses: peter-evans/create-issue-from-file@v5
         with: 
-          title: Link Checker Report
+          title: Internal Link Checker Report
           content-filepath: ./lychee/out.md
           labels: report, automated issue
