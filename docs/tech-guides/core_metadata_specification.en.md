@@ -852,6 +852,7 @@ Types and properties from following namespaces are used:
   "https://schema.org/additionalProperty": {
     "@type": "https://schema.org/PropertyValue",
     "https://schema.org/name": "elevation",
+		"https://schema.org/description":"Altitude, like elevation, is the distance above sea level.",
     "https://schema.org/propertyID": "http://aims.fao.org/aos/agrovoc/c_316",
     "https://schema.org/unitText": "meter",
     "https://schema.org/unitCode": "http://purl.obolibrary.org/obo/UO_0000008",
@@ -871,6 +872,7 @@ Types and properties from following namespaces are used:
   "https://schema.org/additionalProperty": {
     "@type": "https://schema.org/PropertyValue",
     "https://schema.org/name": "spatial reference system",
+		"https://schema.org/description":"The spatial reference system used for the measured geocoordinates.",
     "https://schema.org/propertyID": "https://www.commoncoreontologies.org/ont00000275",
     "https://schema.org/value": "EPSG:4326"
   }
