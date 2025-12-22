@@ -1,0 +1,52 @@
+name: Check for dead external links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * MON"
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  extermal-link-check:
+    name: External Link Check
+    runs-on: ubuntu-latest
+    steps:            
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install mkdocs mkdocs-material mkdocs-static-i18n[material]
+
+      - name: Build
+        run: mkdocs build
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
+      - name: Check offline links
+        id: lychee-check
+        uses: lycheeverse/lychee-action@v2.0.2
+        with:
+          args: --config lychee.toml --no-progress '**/*.html'
+          fail: true
+
+      - name: Create Issue for dead links
+        if: steps.lychee-check.outputs.exit_code != 0 
+        uses: peter-evans/create-issue-from-file@v5
+        with: 
+          title: External Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
