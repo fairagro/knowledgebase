@@ -942,8 +942,8 @@ For expressing pheontypic traits, we recommend using traits from the [Crop Ontol
       "@type": "PropertyValue",
       "name": "Plant height",
       "propertyID": "https://cropontology.org/rdf/CO_321:0000020",
-      "description": "Height of plant from ground to top of spike, excluding awns."
-      "value":"110"
+      "description": "Height of plant from ground to top of spike, excluding awns.",
+      "value":"110",
       "unitText":"centimeter",
       "unitCode":"http://purl.obolibrary.org/obo/UO_0000015"
     }
