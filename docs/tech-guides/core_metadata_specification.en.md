@@ -478,7 +478,7 @@ Types and properties from following namespaces are used:
 #### 2.2.3 Affiliation (Person)
 **Definition:** “The name of the organization the person is  affiliated with, e.g. an organization's name.” (Definition changed from Dataverse)  
 **Cardinality:** 1  
-**Range:** Text
+**Range:** Organization
 
 **Representation:**
 ```
