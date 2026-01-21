@@ -1008,7 +1008,7 @@ The following, existing properties are recommended to describe a plot:
 
 A sensor entity represents a specific sensor, that is described in a dataset, or was used to create measurements in it.
 
-The following, existing properties are recommended to describe a sensor:
+Agrischemas recommends the following set of constructed properties to describe a sensor:
 
 |ID|name|description|propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary|
 |--|--|--|--|--|--|--|--|--|
