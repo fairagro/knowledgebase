@@ -21,7 +21,7 @@ A more basic introduction to metadata can be found here:
 Some services are intuitive to use.
 For others, **detailed documentation of the available features and parameters** is useful.
 The [SciWIn-Client](../services.md#sciwin-client) is one of the more complex services developed by FAIRagro.  
-*What options does the SciWIn-Client offer me?* &rarr; [SciWIn-Client Dokumentation](https://fairagro.github.io/m4.4_sciwin_client/getting-started/){:target="_blank"}
+*What options does the SciWIn-Client offer me?* &rarr; [SciWIn-Client Dokumentation](https://fairagro.github.io/sciwin/getting-started/){:target="_blank"}
 
 
 
@@ -29,10 +29,10 @@ The [SciWIn-Client](../services.md#sciwin-client) is one of the more complex ser
 # <small>Contributors</small>
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"}
 
-(*Last Update: 2025-12-17*)
+(*Last Update: 2026-02-27*)
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. (2025). *Tech-Guides*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/](https://knowledgebase.fairagro.net/en/tech-guides/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. (2026). *Tech-Guides*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/](https://knowledgebase.fairagro.net/en/tech-guides/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

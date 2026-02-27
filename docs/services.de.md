@@ -39,11 +39,11 @@ Zusätzlich ist jede*r, die/der den Search Hub nutzt, eingeladen über die grün
 ## SciWIn-Client
 
 !!! tip inline end "SciWIn-Client"
-	[![Logo SciWIn-Client](images/FAIRagro_SciWIn_g_Logo-v11.png){ align=center }](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+	[![Logo SciWIn-Client](images/FAIRagro_SciWIn_g_Logo-v11.png){ align=center }](https://fairagro.github.io/sciwin/){:target="_blank"}
 	
-	Link zum SciWIn-Client: [https://fairagro.github.io/m4.4_sciwin_client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}
+	Link zum SciWIn-Client: [https://fairagro.github.io/sciwin](https://fairagro.github.io/sciwin/){:target="_blank"}
 
-Ein weiterer FAIRagro Service ist der [SciWIn-Client](https://fairagro.github.io/m4.4_sciwin_client/){:target="_blank"}.
+Ein weiterer FAIRagro Service ist der [SciWIn-Client](https://fairagro.github.io/sciwin/){:target="_blank"}.
 Die Abkürzung „SciWIn“ steht dabei für „Scientific Workflow Infrastructure“.
 
 Der SciWIn-Client ist eine Kommandozeilenanwendung zur Erstellung reproduzierbarer Datenpipelines mit der *Common Workflow Language (CWL)*.
@@ -52,7 +52,7 @@ Durch die strukturierte Beschreibung der Abläufe werden Reproduzierbarkeit, Nac
 SciWIn Client erleichtert die Dokumentation, Versionierung und Weitergabe datengetriebener Methoden und fördert so eine kollaborative und nachhaltige Forschungspraxis.
 
 Eine ausführlichere Antwort auf die Fragen „Was ist SciWIn?“ findet ihr auf unserer [Website](https://fairagro.net/services/sciwin/){:target="_blank"}.
-Eine detailierte Anleitung zur Nutzung des SciWIn-Clients findet ihr in der (englischen) [Dokumentation](https://fairagro.github.io/m4.4_sciwin_client/getting-started/){:target="_blank"} des Services.
+Eine detailierte Anleitung zur Nutzung des SciWIn-Clients findet ihr in der (englischen) [Dokumentation](https://fairagro.github.io/sciwin/getting-started/){:target="_blank"} des Services.
 
 
 ## DMP Templates
@@ -71,10 +71,10 @@ In der Zwischenzeit wendet euch mit euren Fragen gerne an den [Helpdesk](https:/
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
 :fontawesome-solid-user: Jens Krumsieck [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0001-6242-5846){:target="_blank"}
 
-(*Letztes Update: 2025-09-11*)
+(*Letztes Update: 2026-02-27*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Krumsieck, J. (2025). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Krumsieck, J. (2026). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
