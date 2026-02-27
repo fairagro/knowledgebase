@@ -15,8 +15,11 @@
     hyphenate-limit-chars: 10 5;
 
 }
+html {
+  font-synthesis: none;
+}
 
-/* Full-width green gradient bar at the top with links */
+/* Full-width green gradient bar at the top with links 
 .fairagro-top-bar {
   display: flex;
   align-items: center;
@@ -61,75 +64,184 @@
   opacity: 0.7;
 }
 
-/* Adjust header to account for the gradient bar */
+/* Adjust header to account for the gradient bar * /
 .md-header {
   top: 38px;
 }
 
-/* Adjust body padding to account for the gradient bar */
+/* Adjust body padding to account for the gradient bar * /
 body {
   padding-top: 38px;
 }
+*/
+/* ======================================================
+   Fira Sans - alle Schnitte
+   Pfade relativ zu stylesheets/extra.css
+====================================================== */
 
+/* 400 - Regular */
 @font-face {
   font-family: 'Fira Sans';
-  src: local('Fira Sans Regular'),
-       url('../assets/fonts/woff2/FiraSans-Regular.woff2') format('woff2'),
-       url('../assets/fonts/woff/FiraSans-Regular.woff') format('woff');
+  src: url('../assets/fonts/woff2/FiraSans-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
-  font-display: fallback;
+  font-display: swap;
 }
 
+/* 400 - Italic */
 @font-face {
   font-family: 'Fira Sans';
-  src: local('Fira Sans Regular Italic'),
-       url('../assets/fonts/woff2/FiraSans-Italic.woff2') format('woff2'),
-       url('../assets/fonts/woff/FiraSans-Italic.woff') format('woff');
+  src: url('../assets/fonts/woff2/FiraSans-Italic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
-  font-display: fallback;
+  font-display: swap;
 }
 
+/* 500 - Medium */
 @font-face {
   font-family: 'Fira Sans';
-  src: local('Fira Sans Medium'),
-       url('../assets/fonts/woff2/FiraSans-Medium.woff2') format('woff2'),
-       url('../assets/fonts/woff/FiraSans-Medium.woff') format('woff');
+  src: url('../assets/fonts/woff2/FiraSans-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
-  font-display: fallback;
+  font-display: swap;
 }
 
+/* 500 - Medium Italic */
 @font-face {
   font-family: 'Fira Sans';
-  src: local('Fira Sans Medium Italic'),
-       url('../assets/fonts/woff2/FiraSans-MediumItalic.woff2') format('woff2'),
-       url('../assets/fonts/woff/FiraSans-MediumItalic.woff') format('woff');
+  src: url('../assets/fonts/woff2/FiraSans-MediumItalic.woff2') format('woff2');
   font-weight: 500;
   font-style: italic;
-  font-display: fallback;
+  font-display: swap;
 }
 
+/* 600 - SemiBold */
 @font-face {
   font-family: 'Fira Sans';
-  src: local('Fira Sans SemiBold'),
-       url('../assets/fonts/woff2/FiraSans-SemiBold.woff2') format('woff2'),
-       url('../assets/fonts/woff/FiraSans-SemiBold.woff') format('woff');
+  src: url('../assets/fonts/woff2/FiraSans-SemiBold.woff2') format('woff2');
   font-weight: 600;
   font-style: normal;
-  font-display: fallback;
+  font-display: swap;
 }
 
+/* 600 - SemiBold Italic */
 @font-face {
   font-family: 'Fira Sans';
-  src: local('Fira Sans SemiBold Italic'),
-       url('../assets/fonts/woff2/FiraSans-SemiBoldItalic.woff2') format('woff2'),
-       url('../assets/fonts/woff/FiraSans-SemiBoldItalic.woff') format('woff');
+  src: url('../assets/fonts/woff2/FiraSans-SemiBoldItalic.woff2') format('woff2');
   font-weight: 600;
   font-style: italic;
-  font-display: fallback;
+  font-display: swap;
 }
+
+/* ======================================================
+   Material Theme Anpassungen
+====================================================== */
+
+/* Kein synthetisches Bold/Italic */
+html {
+  font-synthesis: none;
+}
+
+/* Material Text-Font setzen */
+:root {
+  --md-text-font: 'Fira Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+/* Headlines → Medium */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-weight: 500;
+}
+
+/* Strong → SemiBold */
+.md-typeset strong {
+  font-weight: 600;
+}
+
+/* Em / Italic → Italic passend zum Gewicht */
+.md-typeset em,
+.md-typeset i {
+  font-style: italic;
+}
+
+
+/* Schatten unter Header 
+.md-header--shadow {
+  box-shadow: var(--md-shadow-z1);
+}
+*/
+
+/* MK 20260127 */
+body {line-height: 1.7;}
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+  height: 2.03rem;
+}
+.md-header {
+  border-block-start: 15px solid #0f9884;
+  border-image: linear-gradient(30deg, #9acb4e, #0f9884 35%) 1 stretch;
+}
+.md-nav__item .md-nav__link--active, .md-nav__item .md-nav__link--active code {
+  color: inherit;
+}
+.md-nav__link[for]:focus, .md-nav__link[for]:hover, .md-nav__link[href]:focus, .md-nav__link[href]:hover {
+  color: inherit;
+}
+.md-typeset a {
+/*   color: var(--md-typeset-a-color);
+  word-break: break-word;
+  text-decoration-style: dashed;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-decoration-line: underline;
+  text-underline-offset: .15em; */
+
+color: inherit;
+  text-underline-offset: 0.3em;
+  text-decoration-color: var(--md-accent-fg-color);
+  text-decoration-thickness: 2px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+
+transition: all .2s ease-in-out 0s;
+
+/*   --md-typeset-a-color: #037D6A;
+  --md-accent-fg-color: #A7C637; */
+
+
+
+}
+
+
+.md-typeset a:focus, .md-typeset a:hover {
+  color: inherit;
+  text-decoration-color: var(--md-typeset-a-color);
+  text-underline-offset: 0.1em;
+  text-decoration-thickness: 4px;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  transition: all .2s ease-in-out 0s;
+}
+
+
+
+
+
+.md-typeset h1, .md-typeset h2 {
+/*   font-weight: 600;
+  letter-spacing: -.01em; */
+/*   font-family: fira-sans bold setzen!!!; */
+}
+
+
+
+
+
+
+
 
 .md-nav__link span {
   border-block-end: 3px solid transparent;
