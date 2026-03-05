@@ -89,6 +89,6 @@ Alle Materialien den gesamten Workshops sind auf Zenodo veröffentlicht:
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Boße, S. (2025). *FDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Boße, S. (2025). *FDM Training*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

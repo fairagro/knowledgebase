@@ -243,6 +243,6 @@ The [FAIRagro Helpdesk](https://fairagro.net/en/helpdesk){:target="_blank"} can 
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Schmidt, M. (2025). *Agriculture-specific Data*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/specific_data/](https://knowledgebase.fairagro.net/en/rdm/specific_data/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Schmidt, M. (2025). *Agriculture-specific Data*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/specific_data/](https://knowledgebase.fairagro.net/en/rdm/specific_data/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

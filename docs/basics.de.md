@@ -63,6 +63,6 @@ Die Sammlung der offenen Bildungsressourcen (OER) von [FAIR Data Austria](https:
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Rey Mazón, E. (2025). *FDM Basics*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/basics/](https://knowledgebase.fairagro.net/basics/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Rey Mazón, E. (2025). *FDM Basics*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/basics/](https://knowledgebase.fairagro.net/basics/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

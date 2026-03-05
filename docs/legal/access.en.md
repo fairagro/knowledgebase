@@ -84,6 +84,6 @@ Additionally, the data holder may demand compensation from the third party when 
 
 ---
 #<small>How to cite this page?</small>
-Breß, C. (2025). *EU Data Act*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/access](https://knowledgebase.fairagro.net/en/legal/access). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Breß, C. (2025). *EU Data Act*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/access](https://knowledgebase.fairagro.net/en/legal/access). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

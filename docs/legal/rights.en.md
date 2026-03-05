@@ -284,6 +284,6 @@ A potential value that is only realised through evaluation is sufficient.[^34]
 
 ---
 #<small>How to cite this page?</small>
-Breß, C. (2025). *Data Rights*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/rights](https://knowledgebase.fairagro.net/en/legal/rights). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Breß, C. (2025). *Data Rights*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/rights](https://knowledgebase.fairagro.net/en/legal/rights). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

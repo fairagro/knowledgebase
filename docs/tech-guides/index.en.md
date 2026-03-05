@@ -33,6 +33,6 @@ The [SciWIn-Client](../services.md#sciwin-client) is one of the more complex ser
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. (2026). *Tech-Guides*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/](https://knowledgebase.fairagro.net/en/tech-guides/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. (2026). *Tech-Guides*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/](https://knowledgebase.fairagro.net/en/tech-guides/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

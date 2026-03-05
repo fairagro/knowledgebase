@@ -61,6 +61,6 @@ The collection of open educational resources (OER) from [FAIR Data Austria](http
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Rey Mazón, E. (2025). *RDM Basics*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/basics/](https://knowledgebase.fairagro.net/en/basics/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Rey Mazón, E. (2025). *RDM Basics*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/basics/](https://knowledgebase.fairagro.net/en/basics/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

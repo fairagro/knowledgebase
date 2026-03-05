@@ -75,6 +75,6 @@ In der Zwischenzeit wendet euch mit euren Fragen gerne an den [Helpdesk](https:/
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Krumsieck, J. (2026). *FAIRagro Services*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Krumsieck, J. (2026). *FAIRagro Services*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/services/](https://knowledgebase.fairagro.net/services/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

@@ -243,6 +243,6 @@ Im Einzelfall kann der [FAIRagro Helpdesk](https://fairagro.net/helpdesk){:targe
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Schmidt, M. (2025). *Agrarspezifische Daten*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/specific_data/](https://knowledgebase.fairagro.net/rdm/specific_data/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Schmidt, M. (2025). *Agrarspezifische Daten*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/specific_data/](https://knowledgebase.fairagro.net/rdm/specific_data/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

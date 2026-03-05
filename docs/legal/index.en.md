@@ -61,6 +61,6 @@ Further information on the (general) training opportunities can be found [here](
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Breß, C. (2025). *RDM & Legal*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/](https://knowledgebase.fairagro.net/en/legal/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Breß, C. (2025). *RDM & Legal*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/](https://knowledgebase.fairagro.net/en/legal/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

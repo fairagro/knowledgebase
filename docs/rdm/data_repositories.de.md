@@ -69,6 +69,6 @@ Als Nutzer dieser Normen und Datenbanken ist es oft schwierig zu wissen, welche 
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Schmidt, M. (2025). *Repositorien*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/data_repositories/](https://knowledgebase.fairagro.net/rdm/data_repositories/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}  
+Vedder, L. & Schmidt, M. (2025). *Repositorien*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/data_repositories/](https://knowledgebase.fairagro.net/rdm/data_repositories/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
