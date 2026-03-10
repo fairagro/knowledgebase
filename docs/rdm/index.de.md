@@ -21,6 +21,10 @@ Häufig werden Daten mittels wissenschaftlichem **Code** analysiert, der ebenfal
 *Wie veröffentliche ich Code FAIR?*
 &rarr; [FAIRe Code-Veröffentlichung](fair_code.md)
 
+**Datendokumentation** und **Metadaten** gehören zu den Schlüsselelementen für FAIRes FDM:  
+*Was kann ich in der Praxis (auch ohne große Vorkenntinisse) zur Datendokumentation/Erhebung von Metadaten tun?*
+&rarr; [Praxisleitfaden Metadaten](metadata_guide.md)
+
 
 ## Rechtliche Fragen
 Eine Übersicht zu unseren Rechtsthemen findet ihr [hier](../legal/index.md).
@@ -29,12 +33,12 @@ Eine Übersicht zu unseren Rechtsthemen findet ihr [hier](../legal/index.md).
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800)
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"}
 
-(*Letztes Update: 2025-09-11*)
+(*Letztes Update: 2025-12-19*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. (2025). *FDM Agrar*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/](https://knowledgebase.fairagro.net/rdm/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. (2025). *FDM Agrar*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/](https://knowledgebase.fairagro.net/rdm/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

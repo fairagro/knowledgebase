@@ -14,7 +14,7 @@ Wenn ihr mehr über das Projekt FAIRagro wissen wollt, schaut auch gerne auf die
 
 ## Für wen ist sie gedacht?
 Diese Ressource ist für alle gedacht, die sich für die **Agrosystemforschung** interessieren und den Wandel hin zu **FAIRen Daten** mitgestalten wollen.  
-Egal, ob ihr gerade erst mit **FAIRen Daten** anfangt oder nach spezifischer technischer Unterstützung sucht – diese Knowledgebase wird euch Schritt für Schritt anleiten.
+Egal, ob ihr gerade erst mit **FAIRen Daten** anfangt oder nach spezifischer technischer Unterstützung sucht – diese Knowledge Base wird euch Schritt für Schritt anleiten.
 
 
 ## Von wem ist sie gemacht?
@@ -31,8 +31,8 @@ Wenn ihr **Feedback** habt, einen **Kommentar** abgeben wollt oder sonstige **Fr
 
 ---
 #<small>Wie ist sie lizensiert und wie kann ich sie zitieren?</small>
-Die FAIRagro Knowledge Base ist lizensiert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Die FAIRagro Knowledge Base ist lizensiert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.
 
 Hinweise zu den jeweils **Mitwirkenden** und zum **Zitieren** der jeweiligen Seite findet ihr ganz am Ende *jeder* Seite.
 
-[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

@@ -53,13 +53,13 @@ Weitere Infos zu den (allgemeinen) Trainingsmöglichkeiten findet ihr [hier](../
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
-:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541)
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
+:fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541){:target="_blank"}
 
 (*Letztes Update: 2025-09-25*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Breß, C. (2025). *FDM & Recht*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/legal/](https://knowledgebase.fairagro.net/legal/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Breß, C. (2025). *FDM & Recht*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/legal/](https://knowledgebase.fairagro.net/legal/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

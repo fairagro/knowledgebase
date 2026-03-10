@@ -59,22 +59,36 @@ Die Materialien sind auf Zenodo veröffentlicht:
 
 #### Legal Workshop Series
 
-Im Rahmen der [Legal Workshop Series](https://fairagro.net/legal-workshop-series/) **„Don’t panic! Survival guide for Law and Ethics in Research“**, organisiert von FAIRagro, NFDI4Biodiversity und NFDI4Earth, wurde die erste Episode, [Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}, im April 2025 von Lea Singson und Sophie Boße durchgeführt.
+Im Rahmen der [Legal Workshop Series](https://fairagro.net/legal-workshop-series/){:target="_blank"} **„Don’t panic! Survival guide for Law and Ethics in Research“**, organisiert von FAIRagro, NFDI4Biodiversity und NFDI4Earth, wurde die erste Episode „[Datenschutz auf dem Silbertablett](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}“ im April 2025 von Lea Singson und Sophie Boße durchgeführt.
 Die Materialien, inkl. der Aufzeichnung, sind ebenfalls auf Zenodo veröffentlicht:
 
 - Singson, L. S., & Boße, S. (2025). **Datenschutz auf dem Silbertablett - Trainingsmaterial**. Publisso. [https://doi.org/10.4126/FRL01-006402743](https://doi.org/10.4126/FRL01-006402743){:target="_blank"}
 
 
+Die nächste von FAIRagro durchgeführte Episode trägt den Titel „[Die Lizenz zum Forschen: Wem gehören Forschungsdaten und was darf ich damit tun?](https://fairagro.net/event/legal-workshop-episode-iii-die-lizenz-zum-forschen-wem-gehoeren-forschungsdaten-und-was-darf-ich-damit-tun/){:target="_blank"}“. 
+Sie findet statt vom 24. bis 26. März 2026.
+Weite Infos dazu findet ihr im [FAIRagro Trainingskalender]((https://fairagro.net/event/legal-workshop-episode-iii-die-lizenz-zum-forschen-wem-gehoeren-forschungsdaten-und-was-darf-ich-damit-tun/){:target="_blank"}).
+
+
+#### Kooperation mit NFDI4BIOIMAGE
+Im November 2025 haben zwei der FAIRagro Data Stewards gemeinsam mit Kollegen von NFDI4BIOIMAGE an der Universität Kassel einen dreiteiligen Trainings-Workshop zum Thema **„Image Data Management in the Biological Sciences and Agriculture Research“** durchgeführt.
+Nach einer gemeinsamen Einführung ins Thema wurde die Gruppe für die Module 2 und 3 auf die Schwerpunkte Mikroskopie und Agrarwissenschaften aufgeteilt.
+Die beiden FAIRagro-Module beschäftigten sich mit „Observation data: From ground robots to UAVs“ und mit „Satellite and grid data: the view from above“.
+Alle Materialien den gesamten Workshops sind auf Zenodo veröffentlicht:
+
+- Vedder, L., Peschel, P., Bortolomeazzi, M., Schmidt, C., & Schröder, K. (2025). **[Workshop] Image Data Management in the Biological Sciences and Agriculture Research**. Zenodo. [https://doi.org/10.5281/zenodo.17787401](https://doi.org/10.5281/zenodo.17787401){:target="_blank"}
+
+
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800),
-:fontawesome-solid-user: Sophie Boße [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291)
+:fontawesome-solid-user: Lucia Vedder [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
+:fontawesome-solid-user: Sophie Boße [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Letztes Update: 2025-09-11*)
+(*Letztes Update: 2025-12-18*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Boße, S. (2025). *FDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Vedder, L. & Boße, S. (2025). *FDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/training/](https://knowledgebase.fairagro.net/training/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
