@@ -1,9 +1,8 @@
 # Project configuration
 site_name: FAIRagro Knowledge Base
-# GitHub Pages (private repo not supported)
-# site_url: https://01p.github.io/fairagro-kb
-# GitLab Pages (opencode.de)
-site_url: https://oc000106614529.opencode.de/fairagro-kb
+site_url: https://knowledgebase.fairagro.net/
+
+
 # Navigation Header Deutsch (English Override -> language settings)
 nav:
     - Erste Schritte: index.de.md
@@ -50,7 +49,6 @@ theme:
     icon:
       tag:
         author: fontawesome/solid/user
-
 
 
 # Language settings
