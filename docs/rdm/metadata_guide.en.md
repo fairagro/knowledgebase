@@ -50,6 +50,6 @@ It provides an overview of metadata, metadata schemas, terminologies and various
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Boße, S. (2025). *Practical Guide Metadata*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/metadata_guide](https://knowledgebase.fairagro.net/en/rdm/metadata_guide). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Boße, S. (2025). *Practical Guide Metadata*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/metadata_guide](https://knowledgebase.fairagro.net/en/rdm/metadata_guide). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

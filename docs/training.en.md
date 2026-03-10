@@ -88,6 +88,6 @@ All materials from the entire workshop are published on Zenodo:
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Boße, S. (2025). *RDM Training*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/training/](https://knowledgebase.fairagro.net/en/training/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Boße, S. (2025). *RDM Training*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/training/](https://knowledgebase.fairagro.net/en/training/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

@@ -37,6 +37,6 @@ Fahrplan zur FAIRen Veröffentlichung von wissenschaftlich generiertem Code. (Be
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Beyer, F. (2025). *FAIRe Code-Veröffentlichung*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/fair-code/](https://knowledgebase.fairagro.net/rdm/fair_code/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Beyer, F. (2025). *FAIRe Code-Veröffentlichung*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/fair-code/](https://knowledgebase.fairagro.net/rdm/fair_code/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

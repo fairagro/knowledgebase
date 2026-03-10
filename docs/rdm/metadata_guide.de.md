@@ -52,6 +52,6 @@ Er bietet mit vielen agrarwissenschaftlichen Beispielen einen Überblick über M
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Vedder, L. & Boße, S. (2025). *Praxisleitfaden Metadaten*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/metadata_guide](https://knowledgebase.fairagro.net/rdm/metadata_guide). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Boße, S. (2025). *Praxisleitfaden Metadaten*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/rdm/metadata_guide](https://knowledgebase.fairagro.net/rdm/metadata_guide). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

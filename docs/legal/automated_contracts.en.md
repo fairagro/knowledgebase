@@ -27,6 +27,6 @@ Consequently, a contract can be entered into purely based on legal metadata, bas
 
 ---
 #<small>How to cite this page?</small>
-Breß, C. (2025). *Automated Contracts*. FARagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/automated_contracts](https://knowledgebase.fairagro.net/en/legal/automated_contracts). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Breß, C. (2025). *Automated Contracts*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/automated_contracts](https://knowledgebase.fairagro.net/en/legal/automated_contracts). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
