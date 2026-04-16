@@ -26,9 +26,9 @@ Types and properties from following namespaces are used:
 - DC Terms: [http://purl.org/dc/terms](http://purl.org/dc/terms){:target="_blank"}
 - DCAT: [http://www.w3.org/ns/dcat#](http://www.w3.org/ns/dcat#){:target="_blank"}
 
-Acknowledgements: 
-Many model and design patterns for Schema.org types and properties were based on the [Science On Schema.Org (SOSO) Guidance Documents](https://github.com/ESIPFed/science-on-schema.org/tree/main).
-Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais, Douglas Fils, Ruth Duerr, Chantelle Verhey, Melinda Minch, Bryce Mecum, Nokome Bentley. (2023). Science-on-Schema.org v1.3.2. Zenodo. https://doi.org/10.5281/zenodo.7884538.
+**Acknowledgements:** Many model and design patterns for Schema.org types and properties were based on the [Science On Schema.Org (SOSO) Guidance Documents](https://github.com/ESIPFed/science-on-schema.org/tree/main).
+
+Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais, Douglas Fils, Ruth Duerr, Chantelle Verhey, Melinda Minch, Bryce Mecum, Nokome Bentley. (2023). Science-on-Schema.org v1.3.2. Zenodo. [https://doi.org/10.5281/zenodo.7884538](https://doi.org/10.5281/zenodo.7884538).
 
 ### 2.1 Dataset
 
