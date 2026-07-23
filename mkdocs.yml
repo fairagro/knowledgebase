@@ -20,7 +20,7 @@ nav:
         - Automatisierte Verträge: legal/automated_contracts.de.md
     - Tech-Guides:
         - tech-guides/index.de.md
-        - Core Metadata Specification: tech-guides/core_metadata_specification.de.md
+        - Core Metadata Specification: tech-guides/core_metadata_specification/index.de.md
     - Weitere FDM Themen:
         - FDM Training: training.de.md
         - FAIRagro Services: services.de.md
@@ -87,7 +87,7 @@ plugins:
                 - Automated Contracts: legal/automated_contracts.en.md
             - Tech-Guides:
                 - tech-guides/index.en.md
-                - Core Metadata Specification: tech-guides/core_metadata_specification.en.md
+                - Core Metadata Specification: tech-guides/core_metadata_specification/index.en.md
             - Further RDM Topics:
                 - RDM Training: training.en.md
                 - FAIRagro Services: services.en.md
