@@ -11,7 +11,7 @@ Eine Übersicht über die FAIRagro Services findet ihr [hier](../services.md) in
 
 ## Technische Guides
 Eines der wichtigsten Themen im Bereich „FAIRes FDM“ sind **Metadaten**.  
-*Welches Metadaten-Kernset wird von FAIRagro empfohlen und wie kann es abgebildet werden?* &rarr; [Core Metadata Specification](core_metadata_specification.md)
+*Welches Metadaten-Kernset wird von FAIRagro empfohlen und wie kann es abgebildet werden?* &rarr; [Core Metadata Specification](core_metadata_specification/index.md)
 
 Eine eher grundlegendere Einführung ins Thema Metadaten findet ihr hier:  
 *Was kann ich in der Praxis (auch ohne große Vorkenntinisse) zur Datendokumentation/Erhebung von Metadaten tun?* &rarr; [Praxisleitfaden Metadaten](../rdm/metadata_guide.md)
