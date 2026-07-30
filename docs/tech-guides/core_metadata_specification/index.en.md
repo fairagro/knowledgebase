@@ -13,6 +13,7 @@ These two components of FAIRagros metadata approach define a Core Metadata Speci
 
 ##  2. Publication Metadata Set
 *Version 1.0*; published on 22.12.2025
+
 ![Publication Metadata Set Diagram](../images/Publication_Metadata_Set_Diagram.png)
 /// caption
 **Figure 1:** FAIRagros Publication Metadata Set types and their relations to each other. Mandatory properties of each type are marked with a “*”.
@@ -884,6 +885,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 
 ## 3. Agrischemas
 *Version 1.0*; published on 22.12.2025
+
 **Design principles and modeling conventions**  
 Agrischemas aims at efficiently reusing established resources, only extending these where necessary. In general, the framework builds on following modeling conventions:
 
