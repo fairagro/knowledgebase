@@ -14,7 +14,7 @@ These two components of FAIRagros metadata approach define a Core Metadata Speci
 ##  2. Publication Metadata Set
 *Version 1.0*; published on 22.12.2025
 
-![Publication Metadata Set Diagram](../images/Publication_Metadata_Set_Diagram.png)
+![Publication Metadata Set Diagram](../../images/Publication_Metadata_Set_Diagram.png)
 /// caption
 **Figure 1:** FAIRagros Publication Metadata Set types and their relations to each other. Mandatory properties of each type are marked with a “*”.
 ///
@@ -899,7 +899,7 @@ Agrischemas aims at efficiently reusing established resources, only extending th
 
 An example metadata instance in Agrischemas could look like this:
 
-![Publication Metadata Set Diagram](../images/Agrischemas_Modeling_Diagram.png)
+![Publication Metadata Set Diagram](../../images/Agrischemas_Modeling_Diagram.png)
 /// caption
 **Figure 2:** General structure of domain specific metadata in a Dataset metadata instance in Agrischemas.
 ///
@@ -915,7 +915,7 @@ An example metadata instance in Agrischemas could look like this:
 	- [maxValue](https://schema.org/maxValue){:target="_blank"}: The maximum possible value of a specific measurement of a property.
 	- [valueReference](https://schema.org/valueReference){:target="_blank"}: A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement. Point to a [DefinedTerm](https://schema.org/DefinedTerm){:target="_blank"} object.
 
-![Publication Metadata Set Diagram](../images/Agrischemas_Example_Property_Diagram.png)
+![Publication Metadata Set Diagram](../../images/Agrischemas_Example_Property_Diagram.png)
 /// caption
 **Figure 3:** Soil sampling depth as an example for a constructed property.
 ///
@@ -1097,4 +1097,4 @@ For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@
 #<small>How to cite this page?</small>
 Schneider, G., Jung, J., Reinosch, N. & Martini, D. *et al.* (2025). *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/](https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
+[![CC BY Logo](../../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
