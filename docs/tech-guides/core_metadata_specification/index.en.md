@@ -12,7 +12,7 @@ Domain specific metadata is expressed through the Agrischemas framework. It addi
 These two components of FAIRagros metadata approach define a Core Metadata Specification to make required information available for FAIRagro services such as the [FAIRagro Search Hub](https://search-hub.fairagro.net/){:target="_blank"} which is based on [Dataverse](https://dataverse.org/){:target="_blank"}. The Core Metadata Specification is harmonized with existing generic metadata standards as well as ongoing [NFDI](https://www.nfdi.de/){:target="_blank"} wide developments.
 
 ##  2. Publication Metadata Set
-*Version 1.0.0*; published on 2025-12-22
+*Version 1.0.1*; updated on 2025-07-31
 
 ![Publication Metadata Set Diagram](../../images/Publication_Metadata_Set_Diagram.png)
 /// caption
@@ -93,28 +93,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.4 Point of Contact
-**Definition:** “The entity, e.g. a person or organization, that users of the Dataset can contact with questions.” (Definition taken from Dataverse)  
-**Cardinality:** 1-n  
-**Range:** Person/Organization  
-**Comment:**  [Schema.org](http://schema.org){:target="_blank"} doesn’t offer a fitting property or type to express this role. The [https://schema.org/ContactPoint](https://schema.org/ContactPoint){:target="_blank"} type and its related [https://schema.org/contactPoint](https://schema.org/contactPoint){:target="_blank"} are meant to express a contact point for a person/organization, not to express a person/organization as a contact point, as it is defined in Dataverse. To still model this information, at least one person/organization related to a Dataset as an author or contributor, needs to be additionally typed by adding an [https://schema.org/additionalType](https://schema.org/additionalType){:target="_blank"} property with the value “Contact Point” to the person/organization metadata object.
-
-**Representation:**
-```
-{
-	"@type":"https://schema.org/Person",
-	"https://schema.org/additionalType": "Contact Point"
-}
-```
-/
-```
-{
-  "@type": "https://schema.org/Organization",
-  "https://schema.org/additionalType": "Contact Point"
-}
-```
-
-#### 2.1.5 Contributor
+#### 2.1.4 Contributor
 **Definition:** “The entity, such as a person or organization, responsible for collecting, managing, or otherwise contributing to the development of the Dataset.” (Definition taken from Dataverse)  
 **Cardinality:** 0-n  
 **Range:** Person/Organization
@@ -136,7 +115,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.6 Description
+#### 2.1.5 Description
 **Definition:** “A summary describing the purpose, nature, and scope of the Dataset.” (Definition taken from Dataverse)  
 **Cardinality:** 1-n  
 **Range:** Text
@@ -148,7 +127,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.7 Subject
+#### 2.1.6 Subject
 **Definition:** “The area of study relevant to the Dataset.” (Definition taken from Dataverse)  
 **Cardinality:** 1-n  
 **Range:** DefinedTerm  
@@ -168,7 +147,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.8 Identifier
+#### 2.1.7 Identifier
 **Definition:** “A unique identifier for the Dataset (e.g. producer's or repository's identifier).” (changed from DataVerse “otherId” definition)  
 **Cardinality:** 1-n  
 **Range:** Identifier  
@@ -183,9 +162,9 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.9 Keyword(s)
+#### 2.1.8 Keyword(s)
 **Definition:** “A key term that describes an important aspect of the Dataset and information about any controlled vocabulary used.” (Definition taken from Dataverse)  
-**Cardinality:** 1-n  
+**Cardinality:** 0-n  
 **Range:** DefinedTerm
 
 **Representation:**
@@ -197,7 +176,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.10 License
+#### 2.1.9 License
 **Definition:** “License defining the rights to (re-)use the dataset.” (Definition taken from Dataverse)  
 **Cardinality:** 1  
 **Range:** URL  
@@ -210,7 +189,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.11 URL
+#### 2.1.10 URL
 **Definition:** “An URL where one can view or access the data in the Dataset, e.g. the webpage of a Research Data Infrastructure.” (changed from DataVerse "alternativeURL")  
 **Cardinality:** 1  
 **Range:** URL
@@ -222,7 +201,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.12 Spatial coverage
+#### 2.1.11 Spatial coverage
 **Definition:** “The spatialCoverage of a Dataset indicates the place(s) which are the focus of the content.” (Definition changed from Schema.org "[https://schema.org/spatialCoverage](https://schema.org/spatialCoverage){:target="_blank"}")  
 **Cardinality:** 0-n  
 **Range:** Place
@@ -236,7 +215,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.13 Temporal coverage
+#### 2.1.12 Temporal coverage
 **Definition:** “The temporalCoverage of a Dataset indicates the period that the content applies to, i.e. that it describes, either as a DateTime or as a textual string indicating a time period in [ISO 8601 time interval format](https://en.wikipedia.org/wiki/ISO_8601#Time_intervals){:target="_blank"}. Open-ended date ranges can be written with ".." in place of the end date. For example, "2015-11/.." indicates a range beginning in November 2015 and with no specified final date.” (Definition changed from [https://schema.org/temporalCoverage](https://schema.org/temporalCoverage){:target="_blank"})  
 **Cardinality:** 0-1  
 **Range:** Text / DateTime
@@ -248,7 +227,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.14 Version
+#### 2.1.13 Version
 **Definition:** “The version number of the dataset.”  
 **Cardinality:** 0-1  
 **Range:** Text
@@ -260,7 +239,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.15 Format
+#### 2.1.14 Format
 **Definition:** “The file format(s) of the dataset.”  
 **Cardinality:** 0-n  
 **Range:** Text
@@ -272,7 +251,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.16 Production date
+#### 2.1.15 Production date
 **Definition:** “The date when the data were produced (not distributed, published, or archived).” (Definition taken from Dataverse)  
 **Cardinality:** 0-1  
 **Range:** Date or DateTime (ISO 8601)
@@ -284,7 +263,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.17 Distribution date
+#### 2.1.16 Distribution date
 **Definition:** “The date when the Dataset was made available for distribution/presentation.” (Definition taken from Dataverse)  
 **Cardinality:** 0-1  
 **Range:** Date or DateTime (ISO 8601)
@@ -296,7 +275,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.18 Update date
+#### 2.1.17 Update date
 **Definition:** “The date on which the Dataset was most recently modified or when the item's entry was modified.” (Definition changed from [https://schema.org/dateModified](https://schema.org/dateModified){:target="_blank"})  
 **Cardinality:** 0-1  
 **Range:** Date or DateTime (ISO 8601)
@@ -308,7 +287,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.19 Language
+#### 2.1.18 Language
 **Definition:** “A language that the Dataset's files is written in.” (Definition taken from Dataverse)  
 **Cardinality:** 0-n  
 **Range:** Text  
@@ -321,7 +300,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.20 Access rights
+#### 2.1.19 Access rights
 **Definition:** “Information about who accesses the resource or an indication of its security status.” (taken from [http://purl.org/dc/terms/accessRights](http://purl.org/dc/terms/accessRights){:target="_blank"})  
 **Cardinality:** 0-n  
 **Range:** Text  
@@ -334,7 +313,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.21 Source RDI
+#### 2.1.20 Source RDI
 **Definition:** “The original Research Data Infrastructure that the dataset was published by.”  
 **Cardinality:** 1  
 **Range:** DataCatalog
@@ -348,7 +327,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.22 Has part
+#### 2.1.21 Has part
 **Definition:** “Indicates a Dataset or CreativeWork that is part of this item.” (Definition changed from [https://schema.org/hasPart](https://schema.org/hasPart){:target="_blank"})  
 **Cardinality:** 0-n  
 **Range:** Dataset/CreativeWork
@@ -370,7 +349,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.23 Is part of
+#### 2.1.22 Is part of
 **Definition:** “Indicates a Dataset or CreativeWork that this item.” (Definition changed from [https://schema.org/isPartOf](https://schema.org/isPartOf){:target="_blank"})  
 **Cardinality:** 0-n  
 **Range:** Dataset/CreativeWork
@@ -392,7 +371,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.24 Is based on
+#### 2.1.23 Is based on
 **Definition:** “A resource from which this Dataset is derived or from which it is a modification or adaptation.” (Definition changed from [https://schema.org/isBasedOn](https://schema.org/isBasedOn){:target="_blank"})  
 **Cardinality:** 0-n  
 **Range:** Dataset/CreativeWork
@@ -414,7 +393,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.25 Access type
+#### 2.1.24 Is accessible for free
 **Definition:** “A flag to signal that the item, event, or place is accessible for free.” (Definition taken from [https://schema.org/isAccessibleForFree](https://schema.org/isAccessibleForFree){:target="_blank"})  
 **Cardinality:** 0-1  
 **Range:** Boolean
@@ -432,7 +411,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 }
 ```
 
-#### 2.1.26 Spatial resolution
+#### 2.1.25 Spatial resolution
 **Definition:** “Minimum spatial separation resolvable in a dataset, measured in meters.” (Definition taken from DCAT)  
 **Cardinality:** 0-1  
 **Range:** Text / [xsd:decimal](https://www.w3.org/TR/xmlschema11-2/#decimal){:target="_blank"}
@@ -481,7 +460,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 ```
 #### 2.2.3 Affiliation (Person)
 **Definition:** “The name of the organization the person is  affiliated with, e.g. an organization's name.” (Definition changed from Dataverse)  
-**Cardinality:** 1  
+**Cardinality:** 0-1
 **Range:** Organization
 
 **Representation:**
@@ -495,7 +474,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 
 #### 2.2.4 Identifier
 **Definition:** “Uniquely identifies a person/organization when paired with an identifier type.” (changed from DataVerse)  
-**Cardinality:** 1  
+**Cardinality:** 0-1  
 **Range:** Identifier
 
 **Representation:**
