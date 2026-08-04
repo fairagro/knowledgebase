@@ -30,4 +30,4 @@ Kontakt bei Fragen oder Feedback:  Gabriel Schneider ([schneiderg@zbmed.de](mail
 # <small>Wie zitiert man diese Seite?</small>
 Schneider, G., Jung, J., Reinosch, N. & Martini, D. *et al.* (2025). *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/tech-guides/core_metadata_specification/](https://knowledgebase.fairagro.net/tech-guides/core_metadata_specification/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
+[![CC BY Logo](../../../../../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
