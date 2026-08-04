@@ -1,6 +1,10 @@
+# FAIRagro Publication Metadata Set version archive
+This page archives all former versions of FAIRagros Publication Metadata Set.
+*currently under development*
+
 # FAIRagro Publication Metadata Set Changelog
 
-All notable changes to this project will be documented in this file.
+All notable changes to the FAIRagro Publication Metadata Set will be documented on this page.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
@@ -22,3 +26,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 
 ### Added
 - Initial version released via FAIRagro Knowledge Base (https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/#2-publication-metadata-set)
+
+---
+<!-- UPDATE information -->
+
+# <small>Contributors</small>
+
+
+For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}).
+
+(*Last Update: 2026-08-04*)
+
+---
+#<small>How to cite this page?</small>
+Schneider, G., Jung, J., Reinosch, N. & Martini, D. *et al.* (2026). *# FAIRagro Publication Metadata Set version archive*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/archive/publication_metadata_set/](https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/archive/publication_metadata_set/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

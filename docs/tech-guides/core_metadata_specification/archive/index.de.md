@@ -1,6 +1,7 @@
-# Versioning Policy Agrischemas
+# FAIRagro Metadata Versioning Policy
 
-*Hier deutschen Text einfügen, oder kurze Zusmmenfassung mit Link zur engl. Version*
+!!! info 
+	<big>Die FAIRagro Metadata Versioning Policy ist auf der [englischsprachigen Seite dieses Artikels](https://knowledgebase.fairagro.net/en/tech-guides/core_metadata_specification/archive/) verfügbar.</big>
 
 
 
@@ -8,14 +9,14 @@
 <!-- UPDATE information -->
 
 # <small>Mitwirkende</small>
-Das Publication Metadata Set und Agrischemas sind kollaborative Entwicklungen innerhalb des FAIRagro Konsortiums und angrenzender Communities. Beitragende stammen aus FAIRagro Task Areas [3](https://fairagro.net/fairagro_team_category/ta-3/){:target="_blank"}, [4](https://fairagro.net/fairagro_team_category/ta-4/){:target="_blank"} und für Agrischemas zusätzlich aus dem [„Agri-schemas“-Projekt](https://github.com/Rothamsted/agri-schemas/tree/master){:target="_blank"}.
 
-Kontakt bei Fragen oder Feedback:  Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}) oder die [Agrischemas Mailingliste](mailto:agri-wg-bioschemas@listserv.dfn.de){:target="_blank"}.
 
-(*Letztes Update: 2025-12-17*)
+Kontakt bei Fragen oder Feedback:  Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}).
+
+(*Letztes Update: 2026-08-04*)
 
 ---
 # <small>Wie zitiert man diese Seite?</small>
-Schneider, G., Jung, J., Reinosch, N. & Martini, D. *et al.* (2025). *FAIRagro Core Metadata Specification*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/tech-guides/core_metadata_specification/](https://knowledgebase.fairagro.net/tech-guides/core_metadata_specification/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Schneider, G., Jung, J., Reinosch, N. & Martini, D. *et al.* (2026). *FAIRagro Metadata Versioning Policy*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/tech-guides/core_metadata_specification/archive/](https://knowledgebase.fairagro.net/tech-guides/core_metadata_specification/archive/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

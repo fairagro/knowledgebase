@@ -1,5 +1,4 @@
 # FAIRagro Core Metadata Specification
-*Version 1.0*
 
 ##  Einleitung und Motivation
 FAIRagro bietet ein Metadaten-Framework für die Veröffentlichung von Forschungsdaten im Bereich der Agrosystemforschung an, das für die Implementierung in Datenpublikationsdiensten wie Forschungsdateninfrastrukturen (RDIs) und Datenrepositorien vorgesehen ist.
