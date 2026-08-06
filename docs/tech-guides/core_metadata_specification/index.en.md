@@ -12,7 +12,7 @@ Domain specific metadata is expressed through the Agrischemas framework. It addi
 These two components of FAIRagros metadata approach define a Core Metadata Specification to make required information available for FAIRagro services such as the [FAIRagro Search Hub](https://search-hub.fairagro.net/){:target="_blank"} which is based on [Dataverse](https://dataverse.org/){:target="_blank"}. The Core Metadata Specification is harmonized with existing generic metadata standards as well as ongoing [NFDI](https://www.nfdi.de/){:target="_blank"} wide developments.
 
 ##  2. Publication Metadata Set
-*Version 1.0.1*; updated on 2025-07-31
+*Version 1.0.1*; updated on 2026-07-31
 
 ![Publication Metadata Set Diagram](../../images/Publication_Metadata_Set_Diagram.png)
 /// caption
@@ -1070,7 +1070,7 @@ The Publication Metadata Set and Agrischemas are collaborative efforts within th
 
 For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}) or the [Agrischemas mailinglist](mailto:agri-wg-bioschemas@listserv.dfn.de){:target="_blank"}.
 
-(*Last Update: 2026-07-30*)
+(*Last Update: 2026-08-06*)
 
 ---
 #<small>How to cite this page?</small>
