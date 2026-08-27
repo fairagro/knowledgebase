@@ -13,14 +13,14 @@ Recht nimmt im FDM verschiedene Formen an.
 Ein Schwerpunkt liegt aber in der **rechtlichen Einordnung der Daten** und den daraus resultierenden Rechten an Daten:  
 *Welche Rechte bestehen an Daten?* &rarr; [Rechte an Daten](rights.md)
 
-**Zugänge** zu verschiedenen Arten von **„IoT-Daten“**[^1] (wie etwa von Messsensoren) können durch den Data Act der EU eröffnet werden:  
+**Zugänge** zu verschiedenen Arten von **„IoT-Daten“** (wie etwa von Messsensoren) können durch den Data Act der EU eröffnet werden:  
 *Was ist der Data Act der EU und welche Datenzugänge ermöglicht er?* &rarr; [Data Act der EU](access.md)
 
 Die **Automatisierung** verschiedener **Vereinbarungen und Verträge** soll die Arbeit Forschender erleichtern:  
 *Was sind automatisierte Verträge und wofür werden sie genutzt?* &rarr; [Automatisierte Verträge](automated_contracts.md)
 
 
-[^1]: IoT steht für **Internet of Things** (dt.: Internet der Dinge). Es bezeichnet das Netzwerk aus physischen Geräten, die mit Sensoren und Software ausgestattet sind und über das Internet miteinander kommunizieren können.
+*[IoT]: IoT steht für Internet of Things (dt.: Internet der Dinge). Es bezeichnet das Netzwerk aus physischen Geräten, die mit Sensoren und Software ausgestattet sind und über das Internet miteinander kommunizieren können.
 
 
 ## Rechtskolumne

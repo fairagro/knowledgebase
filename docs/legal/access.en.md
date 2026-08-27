@@ -1,6 +1,6 @@
 # What is the EU Data Act and what data access does it enable?
 
-The Data Act (EU Regulation 2023/2854) is intended to enable **access to data** gathered by **IoT devices**[^1] from their surroundings.
+The Data Act (EU Regulation 2023/2854) is intended to enable **access to data** gathered by **IoT devices** from their surroundings.
 The regulation specifically addresses connected products and related services.
 
 Data access can be achieved in two ways:
@@ -12,7 +12,7 @@ However, there are certain exemptions.*
 
 The EU Data Act will come into force in September 2025.
 
-[^1]: IoT stands for **Internet of Things**. It refers to the network of physical devices equipped with sensors and software that can communicate with each other via the internet.
+*[IoT]: IoT stands for Internet of Things. It refers to the network of physical devices equipped with sensors and software that can communicate with each other via the internet.
 
 
 ## Covered data  

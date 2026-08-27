@@ -1,6 +1,6 @@
 # Was ist der Data Act der EU und welche Datenzugänge ermöglicht er?
 	
-Der Data Act, also die Verordnung (EU) 2023/2854, soll den **Zugang auf bestimmte Daten ermöglichen**, welche von **IoT-Geräten**[^1] über ihre Umgebung gesammelt werden.
+Der Data Act, also die Verordnung (EU) 2023/2854, soll den **Zugang auf bestimmte Daten ermöglichen**, welche von **IoT-Geräten** über ihre Umgebung gesammelt werden.
 Der Data Act spricht dabei von vernetzten Geräten und verbundenen Diensten.
 
 Der Zugang kann dabei auf zwei wesentliche Arten erfolgen: 
@@ -12,7 +12,7 @@ Allerdings gibt es gewisse Ausnahmen.*
 
 Der Data Act der EU tritt im September 2025 in Kraft.
 
-[^1]: IoT steht für **Internet of Things** (dt.: Internet der Dinge). Es bezeichnet das Netzwerk aus physischen Geräten, die mit Sensoren und Software ausgestattet sind und über das Internet miteinander kommunizieren können.
+*[IoT]: IoT steht für Internet of Things (dt.: Internet der Dinge). Es bezeichnet das Netzwerk aus physischen Geräten, die mit Sensoren und Software ausgestattet sind und über das Internet miteinander kommunizieren können.
 
 
 ## Erfasste Daten
