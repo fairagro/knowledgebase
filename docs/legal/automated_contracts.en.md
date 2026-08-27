@@ -10,12 +10,12 @@ According to the (german) jurisdiction such contracts can be entered into by mac
 In the end a contract is an agreement between two humans.
 As such it needs a declaration of intent.
 But the declaration of the machine is accounted to the human using it, for example because they added relevant legal metadata.[^1]
-Consequently, a contract can be entered into purely based on legal metadata, based e.g. on the ODRL standard[^2]. 
+Consequently, a contract can be entered into purely based on legal metadata, based e.g. on the ODRL standard. 
 
 
 [^1]: *Steinrötter*/*Stamenov*, in: SWK Legal Tech, 1. Aufl. 2023, Smart Contracts, Rn. 11; *Christ*/*Stoppelmann*, in: SWK Legal Tech, 1. Aufl. 2023, Vertragsschluss, Rn. 15-19.
 
-[^2]: The Open Digital Rights Language (ODRL) is a policy expression language that provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services.
+*[ODRL]: The Open Digital Rights Language (ODRL) is a policy expression language that provides a flexible and interoperable information model, vocabulary, and encoding mechanisms for representing statements about the usage of content and services.
 
 
 
