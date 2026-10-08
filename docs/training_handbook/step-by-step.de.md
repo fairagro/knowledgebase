@@ -21,22 +21,22 @@ Dabei wird die Nutzung der [modularen Trainingsmaterialien](modular_material.md)
 
 Beginnt damit, den strukturellen Rahmen eurer Schulung zu klären.
 
-### 1.1 - Durchführungsformat festlegen
+### 1.1 - Durchführungsformat festlegen {#schritt-1_1}
 
 - Wird die Schulung online, in Präsenz oder als Hybridveranstaltung durchgeführt?
 - Gibt es technische Anforderungen (Plattformen, Raumausstattung, Aufzeichnung)?
 
-### 1.2 - Dauer und Struktur festlegen
+### 1.2 - Dauer und Struktur festlegen {#schritt-1_2}
 
 - Wie lange wird die Schulung dauern?
 - Handelt es sich um eine einzelne Veranstaltung oder ist sie auf mehrere Sitzungen verteilt?
 
-### 1.3 - Grad der Interaktion festlegen
+### 1.3 - Grad der Interaktion festlegen {#schritt-1_3}
 
 - Wie interaktiv soll die Schulung sein?
 - Werden die Teilnehmenden an Diskussionen, Umfragen, Breakout-Räumen oder praktischen Übungen teilnehmen?
 
-### 1.4 - Vordefinierte Anforderungen prüfen
+### 1.4 - Vordefinierte Anforderungen prüfen {#schritt-1_4}
 
 Stellt fest, ob die Schulung
 
@@ -54,20 +54,20 @@ Stellt fest, ob die Schulung
 
 Das Verständnis eurer Teilnehmenden ist entscheidend für die individuelle Gestaltung der Schulung.
 
-### 2.1 - Profile der Teilnehmenden identifizieren
+### 2.1 - Profile der Teilnehmenden identifizieren {#schritt-2_1}
 
 - Handelt es sich um Datenproduzierende, Datennutzende oder beides?
 - Sind sie Anfänger\*innen im FDM oder bereits erfahren?
 - Mit welchen Datenkategorien arbeiten sie (z.B. Felddaten, Sensordaten, sozioökonomische Daten, Modelldaten, ...)?
 - Nutzen sie ähnliche institutionelle Infrastrukturen?
 
-### 2.2 - Bedürfnisse identifizieren
+### 2.2 - Bedürfnisse identifizieren {#schritt-2_2}
 
 - Mit welchen Herausforderungen im agrosystem-spezifischen FDM sind sie konfrontiert?
 - Benötigen sie praktische Unterstützung bei der Nutzung von Werkzeugen oder eher konzeptionelles Verständnis?
 - Gibt es regulatorische Anforderungen oder Anforderungen von Fördermittelgebern, die sie erfüllen müssen?
 
-### 2.3 - Die Expertise der Trainer\*innen berücksichtigen
+### 2.3 - Die Expertise der Trainer\*innen berücksichtigen {#schritt-2_3}
 
 - Wer sind die Trainer\*innen?
 - Welche Fachkompetenzen und Kenntnisse im FDM bringen sie mit?
@@ -80,7 +80,7 @@ Das Verständnis eurer Teilnehmenden ist entscheidend für die individuelle Gest
 
 Erstellt nun eine grobe Struktur der Inhalte, die ihr einbeziehen möchtet.
 
-### 3.1 - Kernthemen und Unterthemen auswählen
+### 3.1 - Kernthemen und Unterthemen auswählen {#schritt-3_1}
 
 Wählt Themen aus, die zu Folgendem passen:
 
@@ -128,14 +128,14 @@ Wählt aus den Themen und Unterthemen, die in den [modularen Trainingsmaterialie
     - `11-03_LegalAspects_BusinessSecrets`
     - `11-04_LegalAspects_Nagoya`
 
-### 3.2 - Thematische Schwerpunkte festlegen 
+### 3.2 - Thematische Schwerpunkte festlegen {#schritt-3_2}
 
 Nicht alle Themen können ausführlich behandelt werden. Entscheidet:
 
 - Welche Themen sind wesentlich?
 - Welche können optional oder ergänzend behandelt werden?
 
-### 3.3 - Reihenfolge strukturieren
+### 3.3 - Reihenfolge strukturieren {#schritt-3_3}
 
 Ordnet die Themen in einer logischen Reihenfolge an. Ihr könnt dabei zum Beispiel:
 
@@ -155,7 +155,7 @@ Ordnet die Themen in einer logischen Reihenfolge an. Ihr könnt dabei zum Beispi
 
 Sobald die grobe Struktur festgelegt ist, wählt die relevanten Bausteine („Bricks“) aus dem modularen Material aus.
 
-### 4.1 - Lernziele für jedes einzubeziehende Thema auswählen
+### 4.1 - Lernziele für jedes einzubeziehende Thema auswählen {#schritt-4_1}
 
 - Wählt mit dem Teachingscript (dt.: Lehrdrehbuch) des entsprechenden Themas die Lernziele aus, die ihr einbeziehen möchtet. Zusätzlich kann die Beschreibung des Inhalts der Bricks bei der Auswahl helfen. 
 - Kopiert die entsprechende Zeile mit allen Metainformationen des passenden Bricks aus dem Themen-Teachingscript in das Teachingscript eurer Trainingsveranstaltung.  
@@ -165,7 +165,7 @@ Sobald die grobe Struktur festgelegt ist, wählt die relevanten Bausteine („Br
 	Wenn ihr beim Kopieren der Metainformationen der ausgewählten Bricks in das `Template_Teachingscript.ods`/`Template_Teachingscript.xlxs` die erste Zeile frei lasst und dort unter „Timing“ (Spalte G) den Startzeitpunkt eures Trainings aktualisiert, könnt ihr in dieser Zeile die zeitliche Planung des Trainings kontrollieren. Hier wird automatisch angezeigt, zu welcher Uhrzeit der jeweilige Brick fertig sein sollte.
 
 
-### 4.2 - Input und Interaktion ausbalancieren
+### 4.2 - Input und Interaktion ausbalancieren {#schritt-4_2}
 
 Wechselt zwischen:
 
@@ -174,7 +174,7 @@ Wechselt zwischen:
 
 Dies verbessert den Lernerfolg und die aktive Beteiligung.
 
-### 4.3 - An Erfahrungsniveaus anpassen
+### 4.3 - An Erfahrungsniveaus anpassen {#schritt-4_3}
 
 Wenn die Teilnehmenden unterschiedliche Hintergründe haben:  
 &rarr; Austauschformate einbinden (Peer-Diskussionen, Erfahrungsaustausch, ...)
@@ -185,7 +185,7 @@ Wenn die Gruppe einen ähnlichen Erfahrungshintergrund hat:
 Wenn die Teilnehmenden aus derselben Institution bzw. Arbeitsgruppe kommen:  
 &rarr; Material zu den institutionellen Infrastrukturen einbeziehen
 
-### 4.4 - Rahmen für Ihre Trainingsveranstaltung erstellen
+### 4.4 - Rahmen für Ihre Trainingsveranstaltung erstellen {#schritt-4_4}
 
 - **Begrüßungsabschnitt einplanen** 
     - Erstellt einen Titel, eine Einführung der Trainer\*innen, eine Vorstellung der Institution sowie eine Agenda der Trainingsveranstaltung.
@@ -200,7 +200,7 @@ Wenn die Teilnehmenden aus derselben Institution bzw. Arbeitsgruppe kommen:
     - Entscheidet, ob ihr einen Abschnitt zur Einholung von Feedback einbauen möchten.
     - Stellr weitere Ressourcen und/oder Informationen zu weiterführenden Unterstützungsangeboten bzw. Infrastrukturen bereit.
 
-### 4.5 - Für die Zielgruppe personalisieren
+### 4.5 - Für die Zielgruppe personalisieren {#schritt-4_5}
 
 - Bezieht Bausteine zu institutionellen Infrastrukturen oder domänenspezifischen Werkzeugen bzw. Beispielen ein, die in dem FAIRagro Material nicht enthalten sind.
 
@@ -212,17 +212,17 @@ Wenn die Teilnehmenden aus derselben Institution bzw. Arbeitsgruppe kommen:
 
 ## Schritt 5: Die Schulungsmaterialien entwickeln {#schritt-5}
 
-### 5.1 - Präsentation zusammenstellen
+### 5.1 - Präsentation zusammenstellen {#schritt-5_1}
 
 - Stellt Folien aus den ausgewählten modularen „Bricks“ zusammen.
 
-### 5.2 - Interaktive Elemente vorbereiten
+### 5.2 - Interaktive Elemente vorbereiten {#schritt-5_2}
 
 - Erstellt Umfragen (z. B. mithilfe von Online-Tools).
 - Bereitet Anweisungen für Breakout-Räume vor.
 - Stellt bei Bedarf Vorlagen oder Arbeitsblätter bereit.
 
-### 5.3 - Begleitmaterialien vorbereiten
+### 5.3 - Begleitmaterialien vorbereiten {#schritt-5_3}
 
 Dazu gehörten: 
 
@@ -246,7 +246,7 @@ Zusätzlich für Präsenzschulungen:
 
 ## Schritt 6: Testen und finalisieren {#schritt-6}
 
-### 6.1 - Vor der Durchführung der Schulung:
+### 6.1 - Vor der Durchführung der Schulung {#schritt-6_1}
 
 - Überprüft, ob die Zeitplanung realistisch ist (passt unsere Zeitvorschläge im Teachingscript an euren Bedarf an).
 - Testet die technischen Werkzeuge (insbesondere bei Online-Formaten).
@@ -258,13 +258,13 @@ Zusätzlich für Präsenzschulungen:
 
 ## Schritt 7: Durchführen und reflektieren {#step7}
 
-### 7.1 - Während der Schulung
+### 7.1 - Während der Schulung {#schritt-7_1}
 
 - Überwacht die Zeit mithilfe des Teachingscripts.
 - Seit flexibel, wenn Diskussionen mehr Raum benötigen.
 - Passt die inhaltliche Tiefe entsprechend dem Feedback der Teilnehmenden an.
 
-### 7.2 - Nach der Schulung
+### 7.2 - Nach der Schulung {#schritt-7_2}
 
 - Holt Feedback von den Teilnehmenden ein.
 - Holt Feedback von allen beteiligten Trainer\*innen sowie Organisator\*innen ein.
