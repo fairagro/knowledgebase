@@ -1,4 +1,4 @@
-# Modulare Lehrmaterialien
+# Wie sind die FAIRagro Trainingsmaterialien aufgebaut?
 
 Alle Trainingsmaterialien von FAIRagro können nachgenutzt werden. Dafür wurden sie in modularer Form zur Nachnutzung aufbereitet und unter einer offenen Lizenz veröffentlicht.
 
