@@ -4,7 +4,7 @@ title: Trainingshandbuch
 
 # Wie kann ich disziplinspezifisches FDM vermitteln?
 
-## *Ein Handbuch für Multiplikator:innen und Lehrende, die agrarwissenschaftlich Forschende und PhD-Studierende trainieren möchten* {#handbuch}
+## *Ein Handbuch für Multiplikator\*innen und Lehrende, die agrarwissenschaftlich Forschende und PhD-Studierende trainieren möchten* {#handbuch}
 
 
 Forschende im Forschungsdatenmanagement (FDM) zu trainieren, ist ein wichtiger Schritt, um den Cultural Change hin zu einer vernetzten Landschaft von Agrarforschungsdatenzu unterstützen. Gleichzeitig leisten **gezielte Trainings** einen wichtigen Beitrag dazu, Forschende in ihrer täglichen Arbeit mit Forschungsdaten zu unterstützen.
@@ -28,6 +28,6 @@ Zudem findet ihr in diesem Handbuch einige OERs zu konkreten [Beispiel Trainings
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
-Boße, S. (2026). *Trainingshandbuch*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/training_handbook/](https://knowledgebase.fairagro.net/training_handbook/). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Boße, S. (2026). *Trainingshandbuch*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/training_handbook](https://knowledgebase.fairagro.net/training_handbook). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
