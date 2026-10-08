@@ -214,7 +214,7 @@ Wenn die Teilnehmenden aus derselben Institution bzw. Arbeitsgruppe kommen:
 
 ### 5.1 - Präsentation zusammenstellen {#schritt-5_1}
 
-- Stellt Folien aus den ausgewählten modularen „Bricks“ zusammen.
+- Stellt Folien aus den ausgewählten modularen „Bricks“ (dt.: Bausteine) zusammen.
 
 ### 5.2 - Interaktive Elemente vorbereiten {#schritt-5_2}
 
