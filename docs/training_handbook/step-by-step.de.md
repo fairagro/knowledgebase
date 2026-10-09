@@ -8,8 +8,8 @@ Dabei wird die Nutzung der [modularen Trainingsmaterialien](modular_material.md)
 
 !!! info
 	Der Step-by-step Guide ist Teil der Veröffentlichung
-	**„Research Data Management for Agrosystem Sciences - Modular Training Material for Reuse (Version 1.0)“** von Boße, S., Rey-Mazón, E., Sahwan, W., Singson, L. S. & Vedder, L. (2026). DOI: [10.4126/FRL01-006527953](https://doi.org/10.4126/FRL01-006527953)
-	\[Zenodo: [https://zenodo.org/records/20055188](https://zenodo.org/records/20055188)\] 
+	**„Research Data Management for Agrosystem Sciences - Modular Training Material for Reuse (Version 1.0)“** von Boße, S., Rey-Mazón, E., Sahwan, W., Singson, L. S. & Vedder, L. (2026). DOI: [10.4126/FRL01-006527953](https://doi.org/10.4126/FRL01-006527953){:target="_blank"}
+	\[Zenodo: [https://zenodo.org/records/20055188](https://zenodo.org/records/20055188){:target="_blank"}\] 
 
 
 *[FDM]: Forschungsdatenmanagement
@@ -279,12 +279,12 @@ Nutzt diese Reflexion, um zukünftige Schulungsveranstaltungen kontinuierlich zu
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Sophie Boße [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
+:fontawesome-solid-user: Sophie Boße [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Letztes Update: 2026-10-08*)
+(*Letztes Update: 2026-10-09*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
 Boße, S. (2026). *Trainingshandbuch: Step-by-Step Guide*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/training_handbook/step-by-step](https://knowledgebase.fairagro.net/training_handbook/step-by-step). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

@@ -22,12 +22,12 @@ Zudem findet ihr in diesem Handbuch einige OERs zu konkreten [Beispiel Trainings
 
 ---
 # <small>Mitwirkende</small>
-:fontawesome-solid-user: Sophie Boße [![ORCID icon](./images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
+:fontawesome-solid-user: Sophie Boße [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Letztes Update: 2026-10-08*)
+(*Letztes Update: 2026-10-09*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
 Boße, S. (2026). *Trainingshandbuch*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/training_handbook](https://knowledgebase.fairagro.net/training_handbook). Unter: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
-[![CC BY Logo](./images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
+[![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
