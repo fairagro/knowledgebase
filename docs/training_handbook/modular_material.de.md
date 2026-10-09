@@ -2,18 +2,19 @@
 
 Alle Trainingsmaterialien von FAIRagro können nachgenutzt werden. Dafür wurden sie in modularer Form zur Nachnutzung aufbereitet und unter einer offenen Lizenz veröffentlicht.
 
-Inspiriert vom EduBrick Konzept wurden die Materialien dafür in ihren kleinsten didaktischen Einheiten bereitgestellt, die sogenannten „Bricks“ (dt.: Bausteine), um eine format- und zielgruppenspezifische Zusammenstellung individueller Trainingsmaterialien zu ermöglichen. 
+Inspiriert vom EduBrick Konzept (vgl. Brilhaus *et al.*, 2023)[^1] wurden die Materialien dafür in ihren kleinsten didaktischen Einheiten bereitgestellt, die sogenannten „Bricks“ (dt.: Bausteine), um eine format- und zielgruppenspezifische Zusammenstellung individueller Trainingsmaterialien zu ermöglichen. 
 
 Jeder Brick kann über eine ID identifiziert werden und ist einem Thema und ggf. einem Unterthema zugeordnet. Alle Metainformationen zu den einzelnen Bricks, wie Lernziele, Inhalte, voraussichtliche Lehrdauer sind in auf Themen-Ebene in Lehrdrehbüchern zusammengetragen und über die ID mit den dazugehörigen Präsentationsfolien inklusive Vortragsnotizen und Arbeitsblättern verknüpft. 
 
 ??? info "Was ist ein Lernziel?"
-	„Ein Lernziel beschreibt den nachprüfbaren Zuwachs an Kenntnissen, Fertigkeiten und Haltungen bezogen auf einen bestimmten Lerninhalt“ (Stangl, o. J.)[^1], der am Ende eines Lernprozesses erreicht werden soll (vgl. Gundermann, 2024)[^2].
+	„Ein Lernziel beschreibt den nachprüfbaren Zuwachs an Kenntnissen, Fertigkeiten und Haltungen bezogen auf einen bestimmten Lerninhalt“ (Stangl, o. J.)[^2], der am Ende eines Lernprozesses erreicht werden soll (vgl. Gundermann, 2024)[^3].
 
-	Die Lernziele der FAIRagro Trainingsmaterialien wurden teilweise übernommen oder adaptiert aus der FDM Lernzielmatrix von Petersen *et al.* (2025)[^3].
+	Die Lernziele der FAIRagro Trainingsmaterialien wurden teilweise übernommen oder adaptiert aus der FDM Lernzielmatrix von Petersen *et al.* (2025)[^4].
 
-[^1]: Stangl, W. (o. J.). **Online Lexikon für Psychologie & Pädagogik**. Abgerufen 28. Februar 2025, von [https://lexikon.stangl.eu/2077/lernziele](https://lexikon.stangl.eu/2077/lernziele){:target="_blank"}
-[^2]: Gundermann, A. (2024). **Lernziele und Lernergebnisse (Version 2. überarbeitete und aktualisierte Auflage von Lars Kilian)**. Deutsches Institut für Erwachsenenbildung. [https://doi.org/10.58000/TESK-XA19](https://doi.org/10.58000/TESK-XA19){:target="_blank"}
-[^3]: Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). **Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3)**. Zenodo. [https://doi.org/10.5281/zenodo.15025246](https://doi.org/10.5281/zenodo.15025246){:target="_blank"}
+[^1]: Brilhaus, D., Kuhl, M., Martins Rodrigues, C., & Schrader, A. (Sept. 2023). **One Resource to Teach Them All**. Proceedings of the Conference on Research Data Infrastructure, vol. 1. [https://doi.org/10.52825/cordi.v1i.267](https://doi.org/10.52825/cordi.v1i.267){:target="_blank"}
+[^2]: Stangl, W. (o. J.). **Online Lexikon für Psychologie & Pädagogik**. Abgerufen 28. Februar 2025, von [https://lexikon.stangl.eu/2077/lernziele](https://lexikon.stangl.eu/2077/lernziele){:target="_blank"}
+[^3]: Gundermann, A. (2024). **Lernziele und Lernergebnisse (Version 2. überarbeitete und aktualisierte Auflage von Lars Kilian)**. Deutsches Institut für Erwachsenenbildung. [https://doi.org/10.58000/TESK-XA19](https://doi.org/10.58000/TESK-XA19){:target="_blank"}
+[^4]: Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). **Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3)**. Zenodo. [https://doi.org/10.5281/zenodo.15025246](https://doi.org/10.5281/zenodo.15025246){:target="_blank"}
 
 
 
