@@ -1,4 +1,4 @@
-# Lehrmaterialien konkreter FDM-Trainings
+# Welche Lehrmaterialien konkreter FAIRagro FDM-Trainings gibt es?
 
 Für die Zusammenstellung von Trainingsmaterialien für eigene Trainingsevents kann es hilfreich sein, konkrete Beispiele bereits durchgeführter und etablierter Trainings zu konsultieren.
 
