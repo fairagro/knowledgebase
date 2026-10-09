@@ -24,12 +24,12 @@ nav:
     - Weitere FDM Themen:
         - FAIRagro Services: services.de.md
         - FDM Training: training.de.md
-#        - Trainingshandbuch: 
-#            - training_handbook/index.de.md
-#            - Step-by-Step Guide: training_handbook/step-by-step.de.md
-#            - Modulares Trainingsmaterial: training_handbook/modular_material.de.md
-#            - Beispiel Trainings: training_handbook/example_trainings.de.md
-#            - Weitere Ressourcen: training_handbook/further_resources.de.md
+        - Trainingshandbuch: 
+            - training_handbook/index.de.md
+            - Step-by-Step Guide: training_handbook/step-by-step.de.md
+            - Modulares Trainingsmaterial: training_handbook/modular_material.de.md
+            - Beispiel Trainings: training_handbook/example_trainings.de.md
+            - Weitere Ressourcen: training_handbook/further_resources.de.md
         - Netzwerk & Mehr: info.de.md
 
 # Theme configuration
