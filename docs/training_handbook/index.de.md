@@ -14,7 +14,7 @@ Zielgerichtete Trainings orientieren sich am tatsächlichen Arbeitsalltag der Fo
 Mit diesem Handbuch möchten wir allen, die diese wichtige Arbeit leisten – ob Data Stewards, FDM-Personal oder Lehrende in den Agrarwissenschaften – eine kompakte Orientierung geben, wie zielgerichtete Trainings mit überschaubarem Arbeitsaufwand zusammengestellt werden können.
 
 Dafür haben wir einen [Step-by-Step Guide](step-by-step.md) erstellt, der bei der Konzipierung, Zusammenstellung und Durchführung von agrarspezifischen FDM Trainings mithilfe unserer [modularen Trainingsmaterialien](modular_material.md) unterstützt.
-Zudem findet ihr in diesem Handbuch einige OERs zu konkreten [Beispiel Trainings von FAIRagro](example_training.md), sowie eine Auswahl [weiterer Lern- und Lehrmaterialien](further_resources.md), die für die Community der Agrarforschung relevant sein können.
+Zudem findet ihr in diesem Handbuch einige OERs zu konkreten [Beispiel Trainings von FAIRagro](example_trainings.md), sowie eine Auswahl [weiterer Lern- und Lehrmaterialien](further_resources.md), die für die Community der Agrarforschung relevant sein können.
 
 *[OERs]: OER steht für Open Educational Resources (dt.: freie Bildungsmaterialien). Die damit bezeichneten Lehr- und Lernmaterialien stehen unter einer offenen Lizenz und können von jedem kostenlos genutz, verändert und geteilt werden.
 
