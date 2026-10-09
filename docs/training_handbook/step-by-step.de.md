@@ -198,7 +198,7 @@ Wenn die Teilnehmenden aus derselben Institution bzw. Arbeitsgruppe kommen:
 - **Abschluss einplanen** 
     - Plant einen abschließenden Abschnitt mit einer Zusammenfassung bzw. einer „Take-Home Message“ ein.
     - Entscheidet, ob ihr einen Abschnitt zur Einholung von Feedback einbauen möchten.
-    - Stellr weitere Ressourcen und/oder Informationen zu weiterführenden Unterstützungsangeboten bzw. Infrastrukturen bereit.
+    - Stellt weitere Ressourcen und/oder Informationen zu weiterführenden Unterstützungsangeboten bzw. Infrastrukturen bereit.
 
 ### 4.5 - Für die Zielgruppe personalisieren {#schritt-4_5}
 
@@ -250,8 +250,8 @@ Zusätzlich für Präsenzschulungen:
 
 - Überprüft, ob die Zeitplanung realistisch ist (passt unsere Zeitvorschläge im Teachingscript an euren Bedarf an).
 - Testet die technischen Werkzeuge (insbesondere bei Online-Formaten).
-- Klärt die Rollen, wenn mehrere Trainer\*innen beteiligt sind (tragen Sie die Verantwortlichkeiten in Spalte L des Teachingscripts ein).
-- Erstellen Sie einen Notfall- bzw. Ausweichplan (z.B. für den Fall technischer Probleme).
+- Klärt die Rollen, wenn mehrere Trainer\*innen beteiligt sind (tragt die Verantwortlichkeiten in Spalte L des Teachingscripts ein).
+- Erstellt einen Notfall- bzw. Ausweichplan (z.B. für den Fall technischer Probleme).
 
 
 ---
