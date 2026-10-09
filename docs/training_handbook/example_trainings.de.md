@@ -5,7 +5,7 @@ Für die Zusammenstellung von Trainingsmaterialien für eigene Trainingsevents k
 Wir haben einige Trainingsmaterialien exemplarischer FAIRagro-Trainings veröffentlicht.
 
 
-## 1. From Field Data to FAIR Data
+## From Field Data to FAIR Data
 
 Ein exemplarisches, vierstündiges Online-Training zu den Grundlagen des agrarspezifischen FDM, erstellt unter Nutzung der [modularen Trainingsmaterialien](modular_material.md).
 
@@ -26,7 +26,7 @@ Dieses Training ist außerdem in der Publikation zu den [modularen Trainingsmate
 *[FDM]: Forschungsdatenmanagement
 
 
-## 2. Agrarspezifisches FDM mit der Universität Kassel
+## Agrarspezifisches FDM mit der Universität Kassel
 
 Ein Beispiel für die Verbindung von disziplinspezifischen Inhalten von FAIRagro mit institutionellen Beispielen und Ressourcen vom Forschungsdaten Service der Universität Kassel.
 Diese Kombination ist damit an die tatsächliche Arbeitssituation der Teilnehmenden einer einzelnen Institution zugeschnitten, um Forschende niedrigschwellig abzuholen. 
@@ -57,7 +57,7 @@ Diese Kombination ist damit an die tatsächliche Arbeitssituation der Teilnehmen
 - Teachingscript
 
 
-## 3. Rechtliche Trainings für Agrarwissenschaften, Erdsystemwissenschaften und Umweltwissenschaften
+## Rechtliche Trainings für Agrarwissenschaften, Erdsystemwissenschaften und Umweltwissenschaften
 
 Beispiel für interaktive und niedrigschwellige Trainings zu relevanten rechtlichen Themen im disziplinspezifischen FDM.
 
