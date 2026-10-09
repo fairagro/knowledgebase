@@ -7,7 +7,7 @@ title: Trainingshandbuch
 ## *Ein Handbuch für Multiplikator\*innen und Lehrende, die agrarwissenschaftlich Forschende und PhD-Studierende trainieren möchten* {#handbuch}
 
 
-Forschende im Forschungsdatenmanagement (FDM) zu trainieren, ist ein wichtiger Schritt, um den Cultural Change hin zu einer vernetzten Landschaft von Agrarforschungsdatenzu unterstützen. Gleichzeitig leisten **gezielte Trainings** einen wichtigen Beitrag dazu, Forschende in ihrer täglichen Arbeit mit Forschungsdaten zu unterstützen.
+Forschende im Forschungsdatenmanagement (FDM) zu trainieren, ist ein wichtiger Schritt, um den Cultural Change hin zu einer vernetzten Landschaft von Agrarforschungsdaten zu unterstützen. Gleichzeitig leisten **gezielte Trainings** einen wichtigen Beitrag dazu, Forschende in ihrer täglichen Arbeit mit Forschungsdaten zu unterstützen.
 
 Zielgerichtete Trainings orientieren sich am tatsächlichen Arbeitsalltag der Forschenden und vermitteln neben generischen FDM-Grundlagen vor allem auch **disziplinspezifische Inhalte**. Dabei liegt ein besonderer Fokus auf praxisnahen (Fall-)Beispielen.
 
