@@ -256,7 +256,7 @@ Zusätzlich für Präsenzschulungen:
 
 ---
 
-## Schritt 7: Durchführen und reflektieren {#step7}
+## Schritt 7: Durchführen und reflektieren {#schritt-7}
 
 ### 7.1 - Während der Schulung {#schritt-7_1}
 
