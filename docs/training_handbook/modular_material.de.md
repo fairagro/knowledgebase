@@ -7,11 +7,13 @@ Inspiriert vom EduBrick Konzept wurden die Materialien dafür in ihren kleinsten
 Jeder Brick kann über eine ID identifiziert werden und ist einem Thema und ggf. einem Unterthema zugeordnet. Alle Metainformationen zu den einzelnen Bricks, wie Lernziele, Inhalte, voraussichtliche Lehrdauer sind in auf Themen-Ebene in Lehrdrehbüchern zusammengetragen und über die ID mit den dazugehörigen Präsentationsfolien inklusive Vortragsnotizen und Arbeitsblättern verknüpft. 
 
 ??? info "Was ist ein Lernziel?"
-	„Ein Lernziel beschreibt den nachprüfbaren Zuwachs an Kenntnissen, Fertigkeiten und Haltungen bezogen auf einen bestimmten Lerninhalt“ (Stangl, o. J.), der am Ende eines Lernprozesses erreicht werden soll (vgl. Gundermann, 2024).
+	„Ein Lernziel beschreibt den nachprüfbaren Zuwachs an Kenntnissen, Fertigkeiten und Haltungen bezogen auf einen bestimmten Lerninhalt“ (Stangl, o. J.)[^1], der am Ende eines Lernprozesses erreicht werden soll (vgl. Gundermann, 2024)[^2].
 
-	Die Lernziele der FAIRagro Trainingsmaterialien wurden teilweise übernommen oder adaptiert aus der FDM Lernzielmatrix[^1].  
+	Die Lernziele der FAIRagro Trainingsmaterialien wurden teilweise übernommen oder adaptiert aus der FDM Lernzielmatrix von Petersen *et al.* (2025)[^3].
 
-[^1]: Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). **Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3)**. Zenodo. [https://doi.org/10.5281/zenodo.15025246](https://doi.org/10.5281/zenodo.15025246){:target="_blank"}
+[^1]: Stangl, W. (o. J.). **Online Lexikon für Psychologie & Pädagogik**. Abgerufen 28. Februar 2025, von [https://lexikon.stangl.eu/2077/lernziele](https://lexikon.stangl.eu/2077/lernziele){:target="_blank"}
+[^2]: Gundermann, A. (2024). **Lernziele und Lernergebnisse (Version 2. überarbeitete und aktualisierte Auflage von Lars Kilian)**. Deutsches Institut für Erwachsenenbildung. [https://doi.org/10.58000/TESK-XA19](https://doi.org/10.58000/TESK-XA19){:target="_blank"}
+[^3]: Petersen, B., Altemeier, F., Boße, S., Dalby, M., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., … Zollitsch, L. (2025). **Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3)**. Zenodo. [https://doi.org/10.5281/zenodo.15025246](https://doi.org/10.5281/zenodo.15025246){:target="_blank"}
 
 
 
