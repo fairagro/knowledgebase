@@ -31,8 +31,8 @@ Auch als PDF sind die Materialien verfügbar. Diese eignen sich allerdings nur e
 
 Nach dem Entpacken findest du eine Ordnerstruktur vor, in der die einzelnen **„Bricks“** – die kleinsten didaktischen Einheiten – thematisch sortiert vorliegen. Die Lehrdrehbücher (engl.: Teachingscripts) mit den über die ID mit den Bricks verknüpften didaktischen Information sind in auf Themen Ebene in die Ordnerstruktur integriert. 
 
-!!! info "Screencast"
-	&rarr; [Hier](https://doi.org/10.5281/zenodo.22686654){:target="_blank"} gibt es die Erklärung zur Nutzung der Materialien auch als Screencast[^5].
+!!! info "Tutorial"
+	&rarr; [Hier](https://doi.org/10.5281/zenodo.22686654){:target="_blank"} gibt es die Erklärung zur Nutzung der Materialien auch als Tutorial[^5].
 
 [^5]: Zainou, H., Fuerst, J. & Boße, S. (2026). **Tutorial: How to use FAIRagro's Modular Training Material for Reuse (Version 1.0) [Video recording]**. Zenodo. [https://doi.org/10.5281/zenodo.22686654](https://doi.org/10.5281/zenodo.22686654){:target="_blank"}
 
