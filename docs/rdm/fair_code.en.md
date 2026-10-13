@@ -11,19 +11,23 @@ It therefore makes sense to publish code FAIR, especially in the open access are
 
 ## Guideline of the FAIRagro Helpdesk
 
-!!! tip inline end "Publishing research code FAIR – a roadmap"
-	Beyer _et al._ (2025): [**Publishing research code FAIR - a roadmap**](https://doi.org/10.5281/zenodo.14772749){:target="_blank"}
+!!! tip inline end "Publishing research code FAIR: a roadmap 2.0"
+	Peschel _et al._ (2026): [**Publishing research code FAIR: a roadmap 2.0**](https://doi.org/10.5281/zenodo.14772748){:target="_blank"}
 
 For this reason, the FAIRagro Helpdesk published a [roadmap for FAIR code publication](https://doi.org/10.5281/zenodo.14772749){:target="_blank"}[^2] at the beginning of 2025.
-The measures presented should be seen as current recommendations (as at the beginning of 2025).
+Since then, the way code is created has changed considerably, above all through generative AI and coding agents.
+In autumn 2026, the Helpdesk therefore published a new [version 2.0 of the roadmap](https://doi.org/10.5281/zenodo.14772748){:target="_blank"}[^3], which takes these developments into account in every step.
+The measures presented should be seen as current recommendations (as of autumn 2026).
 Things are changing rapidly in this field, and it is questionable which methods/tools/etc. will become standards in the future and which will not be pursued further due to a lack of support from the community.
 
 
 [^2]: Beyer, F., Vedder, L., Singson, L. S., Sahwan, W. & Schmidt, M. (2025). **Publishing research code FAIR - a roadmap**. Zenodo. [https://doi.org/10.5281/zenodo.14772749](https://doi.org/10.5281/zenodo.14772749){:target="_blank"}
 
-![Image Code Publication](../images/Image_Code_EN.png)
+[^3]: Peschel, P., Beyer, F., Möller, M., Singson, L. S., Vedder, L., Sahwan, W. & Schmidt, M. (2026). **Publishing research code FAIR: a roadmap 2.0**. Zenodo. [https://doi.org/10.5281/zenodo.14772748](https://doi.org/10.5281/zenodo.14772748){:target="_blank"}
+
+![Image Code Publication](../images/Image_Code_EN_v2.png)
 /// caption
-Roadmap to FAIR publication of scientifically generated code. (Beyer _et al._ 2025)[^2]
+Roadmap to the FAIR publication of scientific code. (Peschel _et al._ 2026)[^3]
 ///
 
 
@@ -31,12 +35,13 @@ Roadmap to FAIR publication of scientifically generated code. (Beyer _et al._ 20
 ---
 # <small>Contributors</small>
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
-:fontawesome-solid-user: Florian Beyer [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-9203-320X){:target="_blank"}
+:fontawesome-solid-user: Florian Beyer [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-9203-320X){:target="_blank"},
+:fontawesome-solid-user: Paul Peschel [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0003-4330-6309){:target="_blank"}
 
-(*Last Update: 2025-09-11*)
+(*Last Update: 2026-10-13*)
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Beyer, F. (2025). *Publishing Code FAIR*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/fair-code/](https://knowledgebase.fairagro.net/en/rdm/fair_code/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L., Beyer, F. & Peschel, P. (2026). *Publishing Code FAIR*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/rdm/fair_code/](https://knowledgebase.fairagro.net/en/rdm/fair_code/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
