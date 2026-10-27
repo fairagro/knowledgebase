@@ -28,6 +28,6 @@ In addition, this handbook includes some OERs related to specific [FAIRagro trai
 
 ---
 #<small>How to cite this page?</small>
-Boße, S. (2026). *Training Handbook*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/training_handbook/](https://knowledgebase.fairagro.net/en/training_handbook/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Boße, S. (2026). *Training Handbook*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/training_handbook](https://knowledgebase.fairagro.net/en/training_handbook). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
