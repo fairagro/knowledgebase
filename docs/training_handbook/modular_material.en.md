@@ -1,0 +1,1 @@
+# How are the FAIRagro training materials structured?
