@@ -24,7 +24,7 @@ In addition, this handbook includes some OERs related to specific [FAIRagro trai
 # <small>Contributors</small>
 :fontawesome-solid-user: Sophie Boße [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Last Update: 2026-10-27*)
+(*Last Update: 2026-11-04*)
 
 ---
 #<small>How to cite this page?</small>
