@@ -45,7 +45,7 @@ Beim Herunterladen der Tabelle kann nach Materialien mit der Zielgruppe „Lehre
 # <small>Mitwirkende</small>
 :fontawesome-solid-user: Sophie Boße [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Letztes Update: 2026-10-09*)
+(*Letztes Update: 2026-11-04*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
