@@ -863,7 +863,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 ```
 
 ## 3. Agrischemas
-*Version 1.0.0*; published on 2025-12-22
+*Version 1.1.0*; published on 2026-11-04
 
 **Design principles and modeling conventions**  
 Agrischemas aims at efficiently reusing established resources, only extending these where necessary. In general, the framework builds on following modeling conventions:
@@ -878,10 +878,10 @@ Agrischemas aims at efficiently reusing established resources, only extending th
 
 An example metadata instance in Agrischemas could look like this:
 
-![Publication Metadata Set Diagram](../../images/Agrischemas_Modeling_Diagram.png)
-/// caption
+![Agrischemas Property Example Diagram](../../images/Agrischemas_Example_Property_Diagram.png)
+
 **Figure 2:** General structure of domain specific metadata in a Dataset metadata instance in Agrischemas.
-///
+
 
 - For each property constructed via [additionalProperty](https://schema.org/additionalProperty){:target="_blank"}, following properties are possibly used to define it:
 	- [name](https://schema.org/name){:target="_blank"}: The name of the property.
@@ -894,10 +894,10 @@ An example metadata instance in Agrischemas could look like this:
 	- [maxValue](https://schema.org/maxValue){:target="_blank"}: The maximum possible value of a specific measurement of a property.
 	- [valueReference](https://schema.org/valueReference){:target="_blank"}: A secondary value that provides additional information on the original value, e.g. a reference temperature or a type of measurement. Point to a [DefinedTerm](https://schema.org/DefinedTerm){:target="_blank"} object.
 
-![Publication Metadata Set Diagram](../../images/Agrischemas_Example_Property_Diagram.png)
-/// caption
+![Agrischemas Modeling Diagram](../../images/Agrischemas_Modeling_Diagram.png)
+
 **Figure 3:** Soil sampling depth as an example for a constructed property.
-///
+
 
 ### 3.1 Crop
 - **Definition:** Plants cultivated for food, fiber, livestock fodder or other uses, usually sown and harvested during a single agricultural year.
@@ -948,15 +948,15 @@ Agrischemas recommends the following set of constructed properties to describe a
 
 |ID|name|description|propertyID|unitText|unitCode|minValue|maxValue|Controlled vocabulary|
 |--|--|--|--|--|--|--|--|--|
-|SO_001|soil texture|Soil texture (such as loam, sandy loam or clay) refers to the proportion of sand, silt and clay sized particles that make up the mineral fraction of the soil.|[http://aims.fao.org/aos/agrovoc/c_7199](http://aims.fao.org/aos/agrovoc/c_7199){:target="_blank"} |/|/|/|/|For USDA soil classification classes, use the following classes: [clay](https://lod.nal.usda.gov/nalt/26755){:target="_blank"}, [silty clay](https://lod.nal.usda.gov/nalt/105830){:target="_blank"}, [sandy clay](https://lod.nal.usda.gov/nalt/105829){:target="_blank"}, [clay loam](https://lod.nal.usda.gov/nalt/26741){:target="_blank"}, [silty clay loam](https://lod.nal.usda.gov/nalt/286875){:target="_blank"}, [sandy clay loam](https://lod.nal.usda.gov/nalt/105828){:target="_blank"}, [loam](https://lod.nal.usda.gov/nalt/50479){:target="_blank"}, [silt loam](https://lod.nal.usda.gov/nalt/63100){:target="_blank"}, [silt](https://lod.nal.usda.gov/nalt/63101){:target="_blank"}, [sandy loam](https://lod.nal.usda.gov/nalt/62359){:target="_blank"}, [loamy sand](https://lod.nal.usda.gov/nalt/105831){:target="_blank"}, [sand](https://lod.nal.usda.gov/nalt/62360){:target="_blank"}
+|SO_001|soil texture type|The soil texture type refers to the composition of sand, silt and clay fractions of the soil.|[http://aims.fao.org/aos/agrovoc/c_7199](http://aims.fao.org/aos/agrovoc/c_7199){:target="_blank"} |/|/|/|/|For USDA soil classification classes, use the following classes: [clay](https://lod.nal.usda.gov/nalt/26755){:target="_blank"}, [silty clay](https://lod.nal.usda.gov/nalt/105830){:target="_blank"}, [sandy clay](https://lod.nal.usda.gov/nalt/105829){:target="_blank"}, [clay loam](https://lod.nal.usda.gov/nalt/26741){:target="_blank"}, [silty clay loam](https://lod.nal.usda.gov/nalt/286875){:target="_blank"}, [sandy clay loam](https://lod.nal.usda.gov/nalt/105828){:target="_blank"}, [loam](https://lod.nal.usda.gov/nalt/50479){:target="_blank"}, [silt loam](https://lod.nal.usda.gov/nalt/63100){:target="_blank"}, [silt](https://lod.nal.usda.gov/nalt/63101){:target="_blank"}, [sandy loam](https://lod.nal.usda.gov/nalt/62359){:target="_blank"}, [loamy sand](https://lod.nal.usda.gov/nalt/105831){:target="_blank"}, [sand](https://lod.nal.usda.gov/nalt/62360){:target="_blank"}
 |SO_002|reference group|The World Reference Base (WRB) is an international system for classification of soils. It was designed to cater for any soil in the world. WRB has come forth from an initiative of FAO and UNESCO, supported by UNEP and the International Union of Soil Sciences (IUSS).|[http://aims.fao.org/aos/agrovoc/c_89f35c33](http://aims.fao.org/aos/agrovoc/c_89f35c33){:target="_blank"} |/|/|/|/|Use subclasses of the AGROVOC [“World Reference Base soil types”](http://aims.fao.org/aos/agrovoc/c_89f35c33){:target="_blank"} class 
-|SO_003|soil pH|Soil pH is a measure of the acidity or alkalinity of the soil. A pH value is actually a measure of hydrogen ion concentration. It is a ‘reverse’ scale in that a very acid soil has a low pH and a high hydrogen ion concentration.|[http://aims.fao.org/aos/agrovoc/c_34901](http://aims.fao.org/aos/agrovoc/c_34901){:target="_blank"} |/|[http://purl.obolibrary.org/obo/UO_0000196](http://purl.obolibrary.org/obo/UO_0000196){:target="_blank"} |0|14|/
-|SO_004|bulk density|A sufficiently large volume of soil containing a large number of pores, such that the concept of mean global properties is applicable.|[http://aims.fao.org/aos/agrovoc/c_7167](http://aims.fao.org/aos/agrovoc/c_7167){:target="_blank"} |g/cm3|[http://purl.obolibrary.org/obo/UO_0000084](http://purl.obolibrary.org/obo/UO_0000084){:target="_blank"} |/|/|/
+|SO_003|soil pH|Soil pH is a measure of the acidity or alkalinity of the soil. A pH value is actually a measure of hydrogen ion concentration. It is a logarithmic scale where acid soils are characterized by low values.|[http://aims.fao.org/aos/agrovoc/c_34901](http://aims.fao.org/aos/agrovoc/c_34901){:target="_blank"} |/|[http://purl.obolibrary.org/obo/UO_0000196](http://purl.obolibrary.org/obo/UO_0000196){:target="_blank"} |0|14|/
+|SO_004|bulk density|The density of soil material, the dry soil mass within a given volume.|[http://purl.obolibrary.org/obo/ENVO_00010005](http://purl.obolibrary.org/obo/ENVO_00010005){:target="_blank"} |g/cm3|[http://purl.obolibrary.org/obo/UO_0000084](http://purl.obolibrary.org/obo/UO_0000084){:target="_blank"} |/|/|/
 |SO_005|sampling top depth|The top depth at which a sample of soil is collected during a soil sampling process.|[http://purl.obolibrary.org/obo/ENVO_06105225](http://purl.obolibrary.org/obo/ENVO_06105225){:target="_blank"} |centimeter|[http://purl.obolibrary.org/obo/UO_0000015](http://purl.obolibrary.org/obo/UO_0000015){:target="_blank"} |/|/|/
 |SO_006|sampling bottom depth|The bottom depth at which a sample of soil is collected during a soil sampling process.|[https://bioregistry.io/ENVO:06105226](https://bioregistry.io/ENVO:06105226){:target="_blank"} |centimeter|[http://purl.obolibrary.org/obo/UO_0000015](http://purl.obolibrary.org/obo/UO_0000015){:target="_blank"} |/|/|/
-|SO_007|available water content|Quantity of water present in the soil and usable by plants, classically defined as the difference between moisture at field capacity and moisture at wilting point.|[http://opendata.inrae.fr/thesaurusINRAE/c_6446](http://opendata.inrae.fr/thesaurusINRAE/c_6446){:target="_blank"} |milimeter|[http://purl.obolibrary.org/obo/UO_0000016](http://purl.obolibrary.org/obo/UO_0000016){:target="_blank"} |/|/|/
+|SO_007|**DEPRECATED** available water content|Quantity of water present in the soil and usable by plants, classically defined as the difference between moisture at field capacity and moisture at wilting point.|[http://opendata.inrae.fr/thesaurusINRAE/c_6446](http://opendata.inrae.fr/thesaurusINRAE/c_6446){:target="_blank"} |milimeter|[http://purl.obolibrary.org/obo/UO_0000016](http://purl.obolibrary.org/obo/UO_0000016){:target="_blank"} |/|/|/
 |SO_008|organic carbon|Soil organic carbon (SOC) refers to the carbon held within the soil and is expressed as a percentage by weight (gC/Kg soil). Climatic shifts in temperature and precipitation have a major influence on the decomposition and amount of SOC stored within an ecosystem and that released into the atmosphere. Globally, the amount of carbon stored in soils is twice the amount that is stored in all terrestrial plants. Soil organic carbon (SOC) is essential for maintaining fertility, water retention, and plant production in terrestrial ecosystems. The amount of SOC stored within an ecosystem, is dependent on the quantity and quality of organic matter returned to the soil matrix, the soils ability to retain organic carbon (a function of texture and caption exchange capacity), and biotic influences of both temperature and precipitation. The global decline in SOC as a result of deforestation, shifting cultivation and arable cropping have made significant contributions to increased levels of atmospheric carbon dioxide (CO2).|[http://aims.fao.org/aos/agrovoc/c_389fe908](http://aims.fao.org/aos/agrovoc/c_389fe908){:target="_blank"} |gC/Kg|/|/|/|/
-|SO_009|total carbon|Content or amount of total carbon in soil, including organic carbon and carbon from lime.|[http://aims.fao.org/aos/agrovoc/c_24fb4269](http://aims.fao.org/aos/agrovoc/c_24fb4269){:target="_blank"} |percent|http://purl.obolibrary.org/obo/UO_0000187|/|/|/
+|SO_009|total carbon|Content or amount of total carbon in soil, including organic carbon and carbon from lime.|[http://aims.fao.org/aos/agrovoc/c_24fb4269](http://aims.fao.org/aos/agrovoc/c_24fb4269){:target="_blank"} |g x kg⁻¹|/|/|/|/
 |SO_010|total nitrogen|Content or amount of total nitrogen in soil.|[http://aims.fao.org/aos/agrovoc/c_bdc779f4](http://aims.fao.org/aos/agrovoc/c_bdc779f4){:target="_blank"} |mg/kg|/|/|/|/
 
 If you want to represent additional soil properties, we recommend using subclasses of the AGROVOC [soil properties](http://aims.fao.org/aos/agrovoc/c_330883){:target="_blank"} concept.
@@ -965,7 +965,7 @@ If you want to represent additional soil properties, we recommend using subclass
 - **Definition:** An area of land, somehow related to a dataset, with a particular ownership, land use, or other characteristic.
 	 - [Definition source](http://aims.fao.org/aos/agrovoc/c_fdfbb37f){:target="_blank"}
 - **Type:** [Place](https://schema.org/Place){:target="_blank"}
-- **Additional type:** [http://aims.fao.org/aos/agrovoc/c_2894](http://aims.fao.org/aos/agrovoc/c_2894){:target="_blank"}
+- **Additional type:** [https://agroportal.eu/ontologies/OESO-SIXTINE-V/ExperimentalPlot](https://agroportal.eu/ontologies/OESO-SIXTINE-V/ExperimentalPlot){:target="_blank"}
 
 A plot entity represents a single plot that is somehow related to a dataset.
 
@@ -1043,26 +1043,6 @@ Use one of the following recommendations as a value for the intendedUse property
 |Pest control|<ul><li>For general pest control processes please use [http://purl.obolibrary.org/obo/AGRO_00000023](http://purl.obolibrary.org/obo/AGRO_00000023){:target="_blank"}</li> <li>For more specific types of pest control please its respective sub classes</li></ul>
 |Fertilizer application |<ul><li>For fertilizer application processes please use [http://purl.obolibrary.org/obo/AGRO_01000000](http://purl.obolibrary.org/obo/AGRO_01000000){:target="_blank"}</li></ul>
 
-## 4. Examples
-A full example metadata file for the Publication Metadata Set [can be found here](https://github.com/fairagro/core-metadata-specification/blob/main/exampleData/FAIRagro_Publication_Metadata_Set_example.json){:target="_blank"}.  
-A full example metadata file for the Agrischemas framework [can be found here](https://github.com/fairagro/core-metadata-specification/blob/main/exampleData/FAIRagro_Agrischemas_example.json){:target="_blank"}.
-
-
-## 5. Validation
-Validation mechanisms for the specification are being worked on and will be released as part of a future version.
-
-## 6. Feedback
-If you would like to provide feedback to FAIRagro e.g. for proposing new core entities, new properties important for findability, on definitions in the specification, or to recommend additional semantic concepts for values, please use one of the following templates to create an issue in FAIRagro's metadata GitHub repository. 
-
-- [Suggest a new type/entity](https://github.com/fairagro/core-metadata-specification/issues/new?template=type-entity-request.md){:target="_blank"}
-- [Suggest a new property](https://github.com/fairagro/core-metadata-specification/issues/new?template=property-request-.md){:target="_blank"}
-- [Suggest an update/change to a definition](https://github.com/fairagro/core-metadata-specification/issues/new?template=change-update-existing-definition.md){:target="_blank"}
-- [Suggest a semantic concept for a property or values](https://github.com/fairagro/core-metadata-specification/issues/new?template=semantic-concept-request.md){:target="_blank"}
-
-Issues will be discussed in FAIRagro's Task Areas and Measures.
-If you are interested in joining the Agrischemas Working Group group, please contact its [mailinglist](mailto:agri-wg-bioschemas@listserv.dfn.de){:target="_blank"}. 
-
-
 
 ---
 # <small>Contributors</small>
@@ -1070,7 +1050,7 @@ The Publication Metadata Set and Agrischemas are collaborative efforts within th
 
 For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}) or the [Agrischemas mailinglist](mailto:agri-wg-bioschemas@listserv.dfn.de){:target="_blank"}.
 
-(*Last Update: 2026-08-06*)
+(*Last Update: 2026-11-04*)
 
 ---
 #<small>How to cite this page?</small>
