@@ -91,7 +91,7 @@ Die Materialien enthalten vertiefende Inhalte zu rechtlichen Themen, die teilwei
 
 
 !!! warning "Hinweis"
-	Alle Infos zu unserer Legal Training Series "Don't panic! Survival Guide on Law and Ethics in Research" in Kooperation mit NFDI4Earth und NFDI4Biodiversity findet ihr [hier](https://fairagro.net/legal-workshop-series/){:target="_blank"}. 
+	Alle Infos zu unserer Legal Training Series „Don't panic! Survival Guide on Law and Ethics in Research“ in Kooperation mit NFDI4Earth und NFDI4Biodiversity findet ihr [hier](https://fairagro.net/legal-workshop-series/){:target="_blank"}. 
 
 
 
@@ -99,7 +99,7 @@ Die Materialien enthalten vertiefende Inhalte zu rechtlichen Themen, die teilwei
 # <small>Mitwirkende</small>
 :fontawesome-solid-user: Sophie Boße [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0009-0002-6461-8291){:target="_blank"}
 
-(*Letztes Update: 2026-10-09*)
+(*Letztes Update: 2026-11-04*)
 
 ---
 #<small>Wie zitiert man diese Seite?</small>
