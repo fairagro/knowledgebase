@@ -11,7 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 
 ## [Unreleased]
 
-## [1.1.0] - 2026-11-03
+## [1.1.0] - 2026-11-04
 
 ### Changed
 - Changed the name of "soil texture" property to "soil texture type" (see issue https://github.com/fairagro/agri-wg-bioschemas/issues/34)
@@ -34,7 +34,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
 # <small>Contributors</small>
 For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}) or the [Agrischemas mailinglist](mailto:agri-wg-bioschemas@listserv.dfn.de){:target="_blank"}.
 
-(*Last Update: 2026-11-03*)
+(*Last Update: 2026-11-04*)
 
 ---
 #<small>How to cite this page?</small>

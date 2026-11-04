@@ -863,7 +863,7 @@ Adam Shepherd, Matthew B. Jones, Stephen Richard, Nicholas Jarboe, Dave Vieglais
 ```
 
 ## 3. Agrischemas
-*Version 1.0.0*; published on 2025-12-22
+*Version 1.1.0*; published on 2026-04-11
 
 **Design principles and modeling conventions**  
 Agrischemas aims at efficiently reusing established resources, only extending these where necessary. In general, the framework builds on following modeling conventions:
@@ -1070,7 +1070,7 @@ The Publication Metadata Set and Agrischemas are collaborative efforts within th
 
 For feedback contact Gabriel Schneider ([schneiderg@zbmed.de](mailto:schneiderg@zbmed.de){:target="_blank"}) or the [Agrischemas mailinglist](mailto:agri-wg-bioschemas@listserv.dfn.de){:target="_blank"}.
 
-(*Last Update: 2026-08-06*)
+(*Last Update: 2026-11-04*)
 
 ---
 #<small>How to cite this page?</small>
