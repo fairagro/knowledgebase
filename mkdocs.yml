@@ -96,8 +96,14 @@ plugins:
                 - tech-guides/index.en.md
                 - Core Metadata Specification: tech-guides/core_metadata_specification/index.en.md
             - Further RDM Topics:
-                - RDM Training: training.en.md
                 - FAIRagro Services: services.en.md
+                - RDM Training: training.en.md
+                - Training Handbook: 
+                    - training_handbook/index.en.md
+                    - Step-by-Step Guide: training_handbook/step-by-step.en.md
+                    - Modular Training Material: training_handbook/modular_material.en.md
+                    - Example Trainings: training_handbook/example_trainings.en.md
+                    - Further Resources: training_handbook/further_resources.en.md
                 - Network & More: info.en.md
           theme:
             language: en-custom
