@@ -57,7 +57,7 @@ Diese Kombination ist damit an die tatsächliche Arbeitssituation der Teilnehmen
 - Teachingscript
 
 
-## Rechtliche Trainings für Agrarwissenschaften, Erdsystemwissenschaften und Umweltwissenschaften
+## Rechtliche Trainings für Agrarwissenschaften, Erdsystemwissenschaften und Umweltwissenschaften {#rechtliche-trainings}
 
 Beispiel für interaktive und niedrigschwellige Trainings zu relevanten rechtlichen Themen im disziplinspezifischen FDM.
 

@@ -25,30 +25,28 @@ However, one focus is on the **legal classification of data** and the resulting 
 
 ## Legal Blog
 Our [FAIRagro Blog](https://fairagro.net/en/blog/) contains several articles by our [legal science colleagues](https://fairagro.net/fairagro_team_category/fiz-karlsruhe/).
-The following (legal) questions arise in this context:
 
-- [Do you speak legal?](https://fairagro.net/en/do-you-speak-legal/) Legal language: why it is peculiar but necessary
+You can find a complete overview of these **“Legal Essentials”** &rarr; [here](https://fairagro.net/en/tag/legal-essentials/).
+
+The following (legal) issues, among others, are addressed:
+
 - [Pseudonymous, anonymous – what is it and what are the consequences?](https://fairagro.net/en/pseudonymous-anonymous-what-is-it-and-what-are-the-consequences/) Discussion of the Verdict of the EuG from 26.04.2023, T-557/20
 - [We love trust – but we prefer certainty of evidence](https://fairagro.net/en/we-love-trust-but-we-prefer-certainty-of-evidence/) Why I should put agreements around field experiments in writing
-- [Copyright as the final boss](https://fairagro.net/en/copyright-as-the-final-boss/) Friend or foe for scientists?
-- [Knock Knock: who’s there? – The Reform Of The Genetic Engineering Laws?](https://fairagro.net/en/knock-knock-whos-there-the-reform-of-the-genetic-engineering-laws/)
-- [Why not only data, but also groups of people are to be protected](https://fairagro.net/en/why-not-only-data-but-also-groups-of-people-are-to-be-protected/) Sharing is CAREing – now more than just „Goodwill“
-- [Unity and justice and (academic) freedom](https://fairagro.net/en/unity-and-justice-and-academic-freedom/) Why it is more than just a sentence on paper
 - [No copyright, no problem?](https://fairagro.net/en/no-copyright-no-problem-the-consequences-of-incorrect-citation/) The consequences of incorrect citation
 - [Text- and Data Mining vs. AI](https://fairagro.net/en/text-and-data-mining-vs-ai/) Hamburg Regional Court Rules on the Creation of a Training Data Set
 - [How to (re)use your own publication](https://fairagro.net/en/how-to-reuse-your-own-publication/) 
 
-- [*Wo ein Richter, da kein Schöpfer?*](https://fairagro.net/wo-ein-richter-da-kein-schoepfer/) A special blog post on the topics of copyright and level of creativity (*German only*)
-- [*Von der Forschung zur Verschwörung: Mittel gegen Missbrauch von Publikationen*](https://fairagro.net/von-der-forschung-zur-verschwoerung-mittel-gegen-missbrauch-von-publikationen/) What to do when research is misused to spread conspiracy theories? (*German only*)
-- [*Freie Fahrt? Die Schranken des Urheberrechts*](https://fairagro.net/freie-fahrt-die-schranken-des-urheberrechts/) About copyright (*German only*)
-- [*CCPL-Praxiskommentar und Handbuch: Gute Nachrichten für die Forschung!*](https://fairagro.net/ccpl-praxiskommentar-und-handbuch-gute-nachrichten-fuer-die-forschung/) On the publication of the first legal commentary on all issues relating to the Creative Commons Public Licence (CCPL) (*German only*)
-
 
 ## Training opportunities
 Legal issues are (almost) always addressed in our FAIRagro training courses.
-However, they are of particular focus in our [Legal Workshop Series](https://fairagro.net/en/legal-workshop-series/) **“Don't panic! Survival guide for Law and Ethics in Research”**, which we conduct in cooperation with NFDI4Biodiversity and NFDI4Earth. 
+However, they are of particular focus in our [Legal Workshop Series](https://fairagro.net/en/legal-workshop-series/) **“Don't panic! Survival guide for Law and Ethics in Research”**, which we conduct in cooperation with NFDI4Biodiversity and NFDI4Earth.
 
-Further information on the (general) training opportunities can be found [here](../training.md).
+The content provided by FAIRagro as part of the Legal Workshop Series on **data protection** and **data rights** was recorded and published as OER.
+You can find more details &rarr; [here](../training_handbook/example_trainings.md/#legal-trainings).
+
+We have also put together some additional information for you about the (general) [training opportunities](../training.md).
+
+*[OER]: OER stands for Open Educational Resources. The teaching and learning materials referred to by this term are licensed under an open license and can be used, modified, and shared by anyone free of charge.
 
 
 
@@ -57,10 +55,10 @@ Further information on the (general) training opportunities can be found [here](
 :fontawesome-solid-user: Lucia Vedder [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-8924-9800){:target="_blank"},
 :fontawesome-solid-user: Constantin Breß [![ORCID icon](../images/ORCID-iD_icon_16x16.png)](https://orcid.org/0000-0002-2133-1541){:target="_blank"}
 
-(*Last Update: 2025-11-14*)
+(*Last Update: 2026-11-09*)
 
 ---
 #<small>How to cite this page?</small>
-Vedder, L. & Breß, C. (2025). *RDM & Legal*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal/](https://knowledgebase.fairagro.net/en/legal/). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
+Vedder, L. & Breß, C. (2026). *RDM & Legal*. FAIRagro Knowledge Base. [https://knowledgebase.fairagro.net/en/legal](https://knowledgebase.fairagro.net/en/legal). Under: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}.  
 
 [![CC BY Logo](../images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}

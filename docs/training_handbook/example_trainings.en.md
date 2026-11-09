@@ -57,7 +57,7 @@ This combination is tailored to the actual work situations of participants at a 
 - Teaching script
 
 
-## Legal Training for Agricultural Sciences, Earth System Sciences, and Environmental Sciences
+## Legal Training for Agricultural Sciences, Earth System Sciences, and Environmental Sciences {#legal-trainings}
 
 Example of interactive, easy-to-access trainings on relevant legal topics in discipline-specific RDM.
 
