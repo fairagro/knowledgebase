@@ -18,3 +18,10 @@ The files containing code and information on building the pages (`*.yml`, `*.htm
 The content of the FAIRagro Knowledge Base is licensed under [CC BY 4.0](LICENSE-CC-BY-4.0).
 
 [![CC BY Logo](docs/images/cc-by.png)](https://creativecommons.org/licenses/by/4.0/)
+
+
+## [<img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/63d7e746be929737d7bbbca32d66f5d083ea253a/material/templates/.icons/fontawesome/regular/handshake.svg" width="20"/>](#-acknowledgements) Acknowledgements
+ 
+This work was created as part of the NFDI consortium FAIRagro (www.fairagro.net). We gratefully acknowledge the financial support of the German Research Foundation (DFG) – project number 501899475.
+ 
+[<img src="https://fairagro.net/assets/Fairagro_Logo_lb_ohLiRand_weiss.svg" alt="FAIRagro Logo" style="width:300px;"/>](https://fairagro.net/en)
