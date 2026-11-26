@@ -2,6 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Check internal
+Links](https://github.com/fairagro/knowledgebase/actions/workflows/links.yml/badge.svg)](https://github.com/fairagro/knowledgebase/actions/workflows/links.yml)
+
 
 This is the GitHub Repo of the [FAIRagro](https://fairagro.net/en) Knowledge Base, operated by the FAIRagro [DSSC](https://fairagro.net/en/helpdesk) (Data Steward Service Center).  
 The Knowledge Base is deployed via GitHub-Pages using [<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Icon" width="16"/>](https://github.com/squidfunk/mkdocs-material) [mkdocs-material](https://github.com/squidfunk/mkdocs-material).
