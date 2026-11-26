@@ -22,12 +22,16 @@ Denkbar sind etwa:
 - Möglicherweise notwendiger Schutz von Geschäftsgeheimnissen bei
   Datenzugang, Art. 4 Abs. 6 oder Art. 5 Abs. 9 DVO
 
-Die Europäische Kommission hat mittlerweile
+Mittlerweile gibt es verschiedene Musterverträge für den
+Datenaustausch. Die Europäische Kommission hat generelle
 [Musterverträge](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=OJ:L_202602394)
-für Zugangsansprüche nach der Datenverordnung veröffentlicht. Diese
-können Verträgen in verschiedenen Konstellationen zu Grunde gelegt
-werden. Besondere Sorgfalt sollte allerdings auf die folgenden Punkte
-verwendet werden:
+für Zugangsansprüche nach der Datenverordnung veröffentlicht. Daneben
+hat das BMLEH
+[Musterverträge](https://www.bmleh.de/DE/themen/digitalisierung/musterbedingungen-vertraege-agrardaten.html)
+neben Erläuterungen speziell für vernetzte Landmaschinen
+veröffentlicht. Die Musterverträge können Verträgen in verschiedenen
+Konstellationen zu Grunde gelegt werden. Besondere Sorgfalt sollte
+allerdings auf die folgenden Punkte verwendet werden:
 
 - Angabe der jeweiligen Datenquelle. Etwa über die Seriennummer des
   jeweiligen Gerätes
